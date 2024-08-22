@@ -1,0 +1,22 @@
+[2024-06-24 15:05:00,697] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.get_age 2024-05-22T00:00:00+00:00 [queued]>
+[2024-06-24 15:05:00,739] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.get_age 2024-05-22T00:00:00+00:00 [queued]>
+[2024-06-24 15:05:00,747] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 15:05:00,757] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 15:05:00,774] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 15:05:00,860] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): get_age> on 2024-05-22T00:00:00+00:00
+[2024-06-24 15:05:00,888] {standard_task_runner.py:52} INFO - Started process 32925 to run task
+[2024-06-24 15:05:00,918] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'our_dag_with_python_operator_v07', 'get_age', '2024-05-22T00:00:00+00:00', '--job-id', '11308', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_with_python_operator.py', '--cfg-path', '/tmp/tmp4mb3aysy', '--error-file', '/tmp/tmpdh9c036f']
+[2024-06-24 15:05:00,935] {standard_task_runner.py:77} INFO - Job 11308: Subtask get_age
+[2024-06-24 15:05:01,169] {logging_mixin.py:104} INFO - Running <TaskInstance: our_dag_with_python_operator_v07.get_age 2024-05-22T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 15:05:01,343] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=our_dag_with_python_operator_v07
+AIRFLOW_CTX_TASK_ID=get_age
+AIRFLOW_CTX_EXECUTION_DATE=2024-05-22T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-05-22T00:00:00+00:00
+[2024-06-24 15:05:01,389] {python.py:118} INFO - Done. Returned value was: None
+[2024-06-24 15:05:01,441] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=our_dag_with_python_operator_v07, task_id=get_age, execution_date=20240522T000000, start_date=20240624T150500, end_date=20240624T150501
+[2024-06-24 15:05:01,619] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 15:05:01,639] {local_task_job.py:146} INFO - Task exited with return code 0

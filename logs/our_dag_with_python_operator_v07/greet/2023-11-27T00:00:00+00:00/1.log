@@ -1,0 +1,26 @@
+[2024-06-24 14:49:06,310] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.greet 2023-11-27T00:00:00+00:00 [queued]>
+[2024-06-24 14:49:06,577] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.greet 2023-11-27T00:00:00+00:00 [queued]>
+[2024-06-24 14:49:06,612] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:49:06,636] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 14:49:06,654] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:49:07,003] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): greet> on 2023-11-27T00:00:00+00:00
+[2024-06-24 14:49:07,062] {standard_task_runner.py:52} INFO - Started process 24617 to run task
+[2024-06-24 14:49:07,121] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'our_dag_with_python_operator_v07', 'greet', '2023-11-27T00:00:00+00:00', '--job-id', '9263', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_with_python_operator.py', '--cfg-path', '/tmp/tmpe2kj8ojh', '--error-file', '/tmp/tmp85r8s2gz']
+[2024-06-24 14:49:07,162] {standard_task_runner.py:77} INFO - Job 9263: Subtask greet
+[2024-06-24 14:49:08,036] {logging_mixin.py:104} INFO - Running <TaskInstance: our_dag_with_python_operator_v07.greet 2023-11-27T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 14:49:09,683] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=our_dag_with_python_operator_v07
+AIRFLOW_CTX_TASK_ID=greet
+AIRFLOW_CTX_EXECUTION_DATE=2023-11-27T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-11-27T00:00:00+00:00
+[2024-06-24 14:49:09,703] {logging_mixin.py:104} INFO - some dict:  {'a': 1, 'b': 2}
+[2024-06-24 14:49:10,352] {logging_mixin.py:104} INFO - Hello World! My name is Jerry Fridman, and I am 19 years old!
+[2024-06-24 14:49:10,364] {python.py:118} INFO - Done. Returned value was: None
+[2024-06-24 14:49:10,754] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=our_dag_with_python_operator_v07, task_id=greet, execution_date=20231127T000000, start_date=20240624T144906, end_date=20240624T144910
+[2024-06-24 14:49:12,830] {local_task_job.py:188} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2024-06-24 14:49:12,998] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 24617
+[2024-06-24 14:49:15,343] {taskinstance.py:1239} ERROR - Received SIGTERM. Terminating subprocesses.
+[2024-06-24 14:49:15,584] {process_utils.py:66} INFO - Process psutil.Process(pid=24617, status='terminated', exitcode=1, started='14:49:06') (24617) terminated with exit code 1

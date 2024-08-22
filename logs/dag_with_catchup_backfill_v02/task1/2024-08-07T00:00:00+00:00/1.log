@@ -1,0 +1,12 @@
+[2024-08-08 00:15:29,463] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_catchup_backfill_v02.task1 2024-08-07T00:00:00+00:00 [queued]>
+[2024-08-08 00:15:29,598] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_catchup_backfill_v02.task1 2024-08-07T00:00:00+00:00 [queued]>
+[2024-08-08 00:15:29,599] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-08 00:15:29,602] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-08-08 00:15:29,603] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-08 00:15:29,689] {taskinstance.py:1063} INFO - Executing <Task(BashOperator): task1> on 2024-08-07T00:00:00+00:00
+[2024-08-08 00:15:29,716] {standard_task_runner.py:52} INFO - Started process 34805 to run task
+[2024-08-08 00:15:29,755] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_catchup_backfill_v02', 'task1', '2024-08-07T00:00:00+00:00', '--job-id', '12723', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_catchup_and_backfill.py', '--cfg-path', '/tmp/tmpq9zd8azl', '--error-file', '/tmp/tmp2rgm44vo']
+[2024-08-08 00:15:29,773] {standard_task_runner.py:77} INFO - Job 12723: Subtask task1
+[2024-08-08 00:15:31,953] {local_task_job.py:146} INFO - Task exited with return code 0

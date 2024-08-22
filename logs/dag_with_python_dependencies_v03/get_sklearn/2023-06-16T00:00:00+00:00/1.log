@@ -1,0 +1,23 @@
+[2024-06-24 14:31:13,989] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_dependencies_v03.get_sklearn 2023-06-16T00:00:00+00:00 [queued]>
+[2024-06-24 14:31:14,108] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_dependencies_v03.get_sklearn 2023-06-16T00:00:00+00:00 [queued]>
+[2024-06-24 14:31:14,114] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:31:14,115] {taskinstance.py:1043} INFO - Starting attempt 1 of 1
+[2024-06-24 14:31:14,116] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:31:14,159] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): get_sklearn> on 2023-06-16T00:00:00+00:00
+[2024-06-24 14:31:14,182] {standard_task_runner.py:52} INFO - Started process 20546 to run task
+[2024-06-24 14:31:14,206] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_python_dependencies_v03', 'get_sklearn', '2023-06-16T00:00:00+00:00', '--job-id', '8283', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_python_dependencies.py', '--cfg-path', '/tmp/tmp4g7hen38', '--error-file', '/tmp/tmp53a07hpa']
+[2024-06-24 14:31:14,220] {standard_task_runner.py:77} INFO - Job 8283: Subtask get_sklearn
+[2024-06-24 14:31:14,406] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_python_dependencies_v03.get_sklearn 2023-06-16T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 14:31:14,609] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=dag_with_python_dependencies_v03
+AIRFLOW_CTX_TASK_ID=get_sklearn
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-16T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-06-16T00:00:00+00:00
+[2024-06-24 14:31:18,238] {logging_mixin.py:104} INFO - sklearn with version: 0.24.2
+[2024-06-24 14:31:18,242] {python.py:118} INFO - Done. Returned value was: None
+[2024-06-24 14:31:18,269] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_python_dependencies_v03, task_id=get_sklearn, execution_date=20230616T000000, start_date=20240624T143114, end_date=20240624T143118
+[2024-06-24 14:31:18,409] {taskinstance.py:1220} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 14:31:18,566] {local_task_job.py:146} INFO - Task exited with return code 0

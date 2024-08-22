@@ -1,0 +1,12 @@
+[2024-08-08 00:15:30,380] {logging_mixin.py:104} INFO - Running <TaskInstance: our_dag_with_python_operator_v07.get_name 2024-08-07T00:00:00+00:00 [None]> on host 799b1e36e3f1
+[2024-08-08 00:15:30,721] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=our_dag_with_python_operator_v07
+AIRFLOW_CTX_TASK_ID=get_name
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-07T00:00:00+00:00
+[2024-08-08 00:15:31,122] {python.py:118} INFO - Done. Returned value was: None
+[2024-08-08 00:15:31,207] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=our_dag_with_python_operator_v07, task_id=get_name, execution_date=20240807T000000, start_date=20240808T001529, end_date=20240808T001531
+[2024-08-08 00:15:31,666] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-08 00:15:34,698] {taskinstance.py:845} INFO - Dependencies not met for <TaskInstance: our_dag_with_python_operator_v07.get_name 2024-08-07T00:00:00+00:00 [success]>, dependency 'Task Instance State' FAILED: Task is in the 'success' state which is not a valid state for execution. The task must be cleared in order to be run.
+[2024-08-08 00:15:34,717] {local_task_job.py:93} INFO - Task is not able to be run

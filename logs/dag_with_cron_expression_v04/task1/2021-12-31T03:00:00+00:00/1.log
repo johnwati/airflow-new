@@ -1,0 +1,27 @@
+[2024-06-24 12:49:53,134] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_cron_expression_v04.task1 2021-12-31T03:00:00+00:00 [queued]>
+[2024-06-24 12:49:53,173] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_cron_expression_v04.task1 2021-12-31T03:00:00+00:00 [queued]>
+[2024-06-24 12:49:53,174] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:49:53,175] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 12:49:53,176] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:49:53,202] {taskinstance.py:1063} INFO - Executing <Task(BashOperator): task1> on 2021-12-31T03:00:00+00:00
+[2024-06-24 12:49:53,208] {standard_task_runner.py:52} INFO - Started process 25735 to run task
+[2024-06-24 12:49:53,216] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_cron_expression_v04', 'task1', '2021-12-31T03:00:00+00:00', '--job-id', '124', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_cron_expression.py', '--cfg-path', '/tmp/tmpmsv881bs', '--error-file', '/tmp/tmp6ugsvatf']
+[2024-06-24 12:49:53,222] {standard_task_runner.py:77} INFO - Job 124: Subtask task1
+[2024-06-24 12:49:53,335] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_cron_expression_v04.task1 2021-12-31T03:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 12:49:53,416] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=dag_with_cron_expression_v04
+AIRFLOW_CTX_TASK_ID=task1
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-31T03:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-31T03:00:00+00:00
+[2024-06-24 12:49:53,418] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2024-06-24 12:49:53,419] {bash.py:158} INFO - Running command: echo dag with cron expression!
+[2024-06-24 12:49:53,429] {bash.py:169} INFO - Output:
+[2024-06-24 12:49:53,432] {bash.py:173} INFO - dag with cron expression!
+[2024-06-24 12:49:53,433] {bash.py:177} INFO - Command exited with return code 0
+[2024-06-24 12:49:53,473] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_cron_expression_v04, task_id=task1, execution_date=20211231T030000, start_date=20240624T124953, end_date=20240624T124953
+[2024-06-24 12:49:53,517] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 12:49:53,564] {local_task_job.py:146} INFO - Task exited with return code 0

@@ -1,0 +1,673 @@
+[2024-08-22 15:45:04,879] {scheduler_job.py:182} INFO - Started process (PID=3665) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:04,882] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:04,887] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,886] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:04,912] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:04,936] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,936] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:04,970] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,970] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:04,986] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.113 seconds
+[2024-08-22 15:45:15,072] {scheduler_job.py:182} INFO - Started process (PID=3750) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:15,074] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:15,076] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,076] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:15,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:15,313] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,313] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:15,435] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,435] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:15,470] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.406 seconds
+[2024-08-22 15:45:25,616] {scheduler_job.py:182} INFO - Started process (PID=3835) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:25,619] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:25,622] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,621] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:25,643] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:25,671] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,670] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:25,706] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,706] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:25,718] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.109 seconds
+[2024-08-22 15:45:35,980] {scheduler_job.py:182} INFO - Started process (PID=3930) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:35,983] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:35,985] {logging_mixin.py:104} INFO - [2024-08-22 15:45:35,984] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:36,006] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:36,031] {logging_mixin.py:104} INFO - [2024-08-22 15:45:36,030] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:36,067] {logging_mixin.py:104} INFO - [2024-08-22 15:45:36,067] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:36,080] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.106 seconds
+[2024-08-22 15:45:46,241] {scheduler_job.py:182} INFO - Started process (PID=4021) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:46,244] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:46,246] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,245] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:46,272] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:46,303] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,303] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:46,349] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,349] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:46,365] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.131 seconds
+[2024-08-22 15:45:57,241] {scheduler_job.py:182} INFO - Started process (PID=4115) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:57,245] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:45:57,266] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,266] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:57,286] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:45:57,309] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,309] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:57,352] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,352] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:57,367] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.131 seconds
+[2024-08-22 15:46:07,999] {scheduler_job.py:182} INFO - Started process (PID=4207) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:08,001] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:46:08,004] {logging_mixin.py:104} INFO - [2024-08-22 15:46:08,004] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:08,034] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:08,055] {logging_mixin.py:104} INFO - [2024-08-22 15:46:08,055] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:08,091] {logging_mixin.py:104} INFO - [2024-08-22 15:46:08,091] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:08,103] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.109 seconds
+[2024-08-22 15:46:18,746] {scheduler_job.py:182} INFO - Started process (PID=4297) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:18,748] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:46:18,750] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,750] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:18,769] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:18,796] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,796] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:18,843] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,843] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:18,857] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.117 seconds
+[2024-08-22 15:46:29,572] {scheduler_job.py:182} INFO - Started process (PID=4387) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:29,575] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:46:29,577] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,577] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:29,597] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:29,621] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,621] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:29,654] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,654] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:29,665] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.099 seconds
+[2024-08-22 15:46:40,499] {scheduler_job.py:182} INFO - Started process (PID=4477) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:40,504] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:46:40,506] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,506] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:40,534] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:40,572] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,572] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:40,636] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,636] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:40,652] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.161 seconds
+[2024-08-22 15:46:50,809] {scheduler_job.py:182} INFO - Started process (PID=4569) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:50,812] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:46:50,814] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,814] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:50,836] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:46:50,864] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,864] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:50,905] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,905] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:50,918] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.114 seconds
+[2024-08-22 15:47:01,686] {scheduler_job.py:182} INFO - Started process (PID=4657) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:01,690] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:01,692] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,691] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:01,713] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:01,744] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,744] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:01,809] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,809] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:01,823] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.144 seconds
+[2024-08-22 15:47:12,582] {scheduler_job.py:182} INFO - Started process (PID=4747) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:12,586] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:12,587] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,587] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:12,618] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:12,646] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,646] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:12,695] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,694] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:12,711] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.135 seconds
+[2024-08-22 15:47:23,807] {scheduler_job.py:182} INFO - Started process (PID=4837) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:23,810] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:23,813] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,812] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:23,845] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:23,883] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,882] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:23,948] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,947] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:23,977] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.178 seconds
+[2024-08-22 15:47:34,127] {scheduler_job.py:182} INFO - Started process (PID=4924) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:34,135] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:34,136] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,136] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:34,166] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:34,200] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,200] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:34,257] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,257] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:34,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.151 seconds
+[2024-08-22 15:47:45,119] {scheduler_job.py:182} INFO - Started process (PID=5017) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:45,122] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:45,123] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,123] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:45,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:45,168] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,168] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:45,204] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,204] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:45,221] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.108 seconds
+[2024-08-22 15:47:56,072] {scheduler_job.py:182} INFO - Started process (PID=5107) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:56,074] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:47:56,076] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,075] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:56,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:47:56,119] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,118] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:56,157] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,157] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:56,172] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.106 seconds
+[2024-08-22 15:48:06,938] {scheduler_job.py:182} INFO - Started process (PID=5201) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:06,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:48:06,945] {logging_mixin.py:104} INFO - [2024-08-22 15:48:06,944] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:06,991] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:07,031] {logging_mixin.py:104} INFO - [2024-08-22 15:48:07,031] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:48:07,146] {logging_mixin.py:104} INFO - [2024-08-22 15:48:07,146] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:48:07,162] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.232 seconds
+[2024-08-22 15:48:17,862] {scheduler_job.py:182} INFO - Started process (PID=5291) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:17,864] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:48:17,866] {logging_mixin.py:104} INFO - [2024-08-22 15:48:17,866] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:17,886] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:17,909] {logging_mixin.py:104} INFO - [2024-08-22 15:48:17,909] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:48:17,949] {logging_mixin.py:104} INFO - [2024-08-22 15:48:17,949] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:48:17,963] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.106 seconds
+[2024-08-22 15:48:28,756] {scheduler_job.py:182} INFO - Started process (PID=5381) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:28,771] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:48:28,774] {logging_mixin.py:104} INFO - [2024-08-22 15:48:28,774] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:28,808] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:28,837] {logging_mixin.py:104} INFO - [2024-08-22 15:48:28,837] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:48:28,873] {logging_mixin.py:104} INFO - [2024-08-22 15:48:28,873] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:48:28,886] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.141 seconds
+[2024-08-22 15:48:39,757] {scheduler_job.py:182} INFO - Started process (PID=5471) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:39,760] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:48:39,767] {logging_mixin.py:104} INFO - [2024-08-22 15:48:39,766] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:39,793] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:48:39,817] {logging_mixin.py:104} INFO - [2024-08-22 15:48:39,817] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:48:39,859] {logging_mixin.py:104} INFO - [2024-08-22 15:48:39,859] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:48:39,873] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.122 seconds
+[2024-08-22 15:49:48,224] {scheduler_job.py:182} INFO - Started process (PID=199) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:48,229] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:49:48,232] {logging_mixin.py:104} INFO - [2024-08-22 15:49:48,232] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:48,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:48,350] {logging_mixin.py:104} INFO - [2024-08-22 15:49:48,350] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:49:48,436] {logging_mixin.py:104} INFO - [2024-08-22 15:49:48,436] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:49:48,456] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.241 seconds
+[2024-08-22 15:49:59,354] {scheduler_job.py:182} INFO - Started process (PID=294) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:59,356] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:49:59,358] {logging_mixin.py:104} INFO - [2024-08-22 15:49:59,358] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:59,384] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:49:59,411] {logging_mixin.py:104} INFO - [2024-08-22 15:49:59,410] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:49:59,466] {logging_mixin.py:104} INFO - [2024-08-22 15:49:59,466] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:48:00+00:00
+[2024-08-22 15:49:59,482] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.133 seconds
+[2024-08-22 15:50:10,253] {scheduler_job.py:182} INFO - Started process (PID=381) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:10,255] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:50:10,256] {logging_mixin.py:104} INFO - [2024-08-22 15:50:10,256] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:10,284] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:10,313] {logging_mixin.py:104} INFO - [2024-08-22 15:50:10,313] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:50:10,359] {logging_mixin.py:104} INFO - [2024-08-22 15:50:10,359] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:50:10,378] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.130 seconds
+[2024-08-22 15:50:21,126] {scheduler_job.py:182} INFO - Started process (PID=466) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:21,129] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:50:21,131] {logging_mixin.py:104} INFO - [2024-08-22 15:50:21,131] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:21,159] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:21,189] {logging_mixin.py:104} INFO - [2024-08-22 15:50:21,189] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:50:21,233] {logging_mixin.py:104} INFO - [2024-08-22 15:50:21,233] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:50:21,246] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.126 seconds
+[2024-08-22 15:50:32,068] {scheduler_job.py:182} INFO - Started process (PID=551) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:32,070] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:50:32,072] {logging_mixin.py:104} INFO - [2024-08-22 15:50:32,072] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:32,098] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:32,125] {logging_mixin.py:104} INFO - [2024-08-22 15:50:32,124] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:50:32,175] {logging_mixin.py:104} INFO - [2024-08-22 15:50:32,175] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:50:32,194] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.132 seconds
+[2024-08-22 15:50:42,971] {scheduler_job.py:182} INFO - Started process (PID=636) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:42,974] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:50:42,977] {logging_mixin.py:104} INFO - [2024-08-22 15:50:42,977] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:43,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:43,054] {logging_mixin.py:104} INFO - [2024-08-22 15:50:43,054] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:50:43,131] {logging_mixin.py:104} INFO - [2024-08-22 15:50:43,130] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:50:43,143] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.179 seconds
+[2024-08-22 15:50:54,324] {scheduler_job.py:182} INFO - Started process (PID=721) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:54,328] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:50:54,331] {logging_mixin.py:104} INFO - [2024-08-22 15:50:54,330] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:54,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:50:54,429] {logging_mixin.py:104} INFO - [2024-08-22 15:50:54,428] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:50:54,509] {logging_mixin.py:104} INFO - [2024-08-22 15:50:54,508] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:50:54,530] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.214 seconds
+[2024-08-22 15:51:05,361] {scheduler_job.py:182} INFO - Started process (PID=806) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:05,366] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:05,371] {logging_mixin.py:104} INFO - [2024-08-22 15:51:05,371] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:05,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:05,600] {logging_mixin.py:104} INFO - [2024-08-22 15:51:05,600] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:05,682] {logging_mixin.py:104} INFO - [2024-08-22 15:51:05,681] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:05,717] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.367 seconds
+[2024-08-22 15:51:15,937] {scheduler_job.py:182} INFO - Started process (PID=890) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:15,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:15,944] {logging_mixin.py:104} INFO - [2024-08-22 15:51:15,943] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:15,998] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:16,035] {logging_mixin.py:104} INFO - [2024-08-22 15:51:16,035] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:16,096] {logging_mixin.py:104} INFO - [2024-08-22 15:51:16,096] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:16,111] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.181 seconds
+[2024-08-22 15:51:26,223] {scheduler_job.py:182} INFO - Started process (PID=975) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:26,225] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:26,227] {logging_mixin.py:104} INFO - [2024-08-22 15:51:26,227] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:26,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:26,280] {logging_mixin.py:104} INFO - [2024-08-22 15:51:26,280] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:26,339] {logging_mixin.py:104} INFO - [2024-08-22 15:51:26,338] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:26,352] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.134 seconds
+[2024-08-22 15:51:37,135] {scheduler_job.py:182} INFO - Started process (PID=1063) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:37,138] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:37,141] {logging_mixin.py:104} INFO - [2024-08-22 15:51:37,141] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:37,178] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:37,203] {logging_mixin.py:104} INFO - [2024-08-22 15:51:37,203] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:37,244] {logging_mixin.py:104} INFO - [2024-08-22 15:51:37,244] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:37,256] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.126 seconds
+[2024-08-22 15:51:48,028] {scheduler_job.py:182} INFO - Started process (PID=1148) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:48,030] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:48,032] {logging_mixin.py:104} INFO - [2024-08-22 15:51:48,032] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:48,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:48,088] {logging_mixin.py:104} INFO - [2024-08-22 15:51:48,088] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:48,134] {logging_mixin.py:104} INFO - [2024-08-22 15:51:48,133] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:48,149] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.127 seconds
+[2024-08-22 15:51:58,977] {scheduler_job.py:182} INFO - Started process (PID=1232) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:58,981] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:51:58,984] {logging_mixin.py:104} INFO - [2024-08-22 15:51:58,984] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:59,031] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:51:59,072] {logging_mixin.py:104} INFO - [2024-08-22 15:51:59,071] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:51:59,143] {logging_mixin.py:104} INFO - [2024-08-22 15:51:59,143] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:51:59,168] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.198 seconds
+[2024-08-22 15:52:09,960] {scheduler_job.py:182} INFO - Started process (PID=1318) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:09,963] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:52:09,966] {logging_mixin.py:104} INFO - [2024-08-22 15:52:09,966] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:10,002] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:10,025] {logging_mixin.py:104} INFO - [2024-08-22 15:52:10,025] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:52:10,085] {logging_mixin.py:104} INFO - [2024-08-22 15:52:10,085] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:52:00+00:00
+[2024-08-22 15:52:10,101] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.147 seconds
+[2024-08-22 15:52:20,895] {scheduler_job.py:182} INFO - Started process (PID=1403) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:20,898] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:52:20,900] {logging_mixin.py:104} INFO - [2024-08-22 15:52:20,900] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:20,947] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:20,978] {logging_mixin.py:104} INFO - [2024-08-22 15:52:20,977] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:52:21,026] {logging_mixin.py:104} INFO - [2024-08-22 15:52:21,026] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:52:00+00:00
+[2024-08-22 15:52:21,040] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.154 seconds
+[2024-08-22 15:52:31,746] {scheduler_job.py:182} INFO - Started process (PID=1490) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:31,748] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:52:31,749] {logging_mixin.py:104} INFO - [2024-08-22 15:52:31,749] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:31,782] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:31,820] {logging_mixin.py:104} INFO - [2024-08-22 15:52:31,819] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:52:31,859] {logging_mixin.py:104} INFO - [2024-08-22 15:52:31,859] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:52:00+00:00
+[2024-08-22 15:52:31,874] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.133 seconds
+[2024-08-22 15:52:42,714] {scheduler_job.py:182} INFO - Started process (PID=1575) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:42,717] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:52:42,720] {logging_mixin.py:104} INFO - [2024-08-22 15:52:42,720] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:42,776] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:42,826] {logging_mixin.py:104} INFO - [2024-08-22 15:52:42,825] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:52:42,917] {logging_mixin.py:104} INFO - [2024-08-22 15:52:42,915] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:52:00+00:00
+[2024-08-22 15:52:42,940] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.235 seconds
+[2024-08-22 15:52:52,996] {scheduler_job.py:182} INFO - Started process (PID=1652) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:52,999] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:52:53,001] {logging_mixin.py:104} INFO - [2024-08-22 15:52:53,001] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:53,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:52:53,095] {logging_mixin.py:104} INFO - [2024-08-22 15:52:53,095] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:52:53,140] {logging_mixin.py:104} INFO - [2024-08-22 15:52:53,139] {dag.py:1837} INFO - Creating ORM DAG for BANK_ACCOUNT_T24_TO_ERP
+[2024-08-22 15:52:53,177] {logging_mixin.py:104} INFO - [2024-08-22 15:52:53,177] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:50:00+00:00
+[2024-08-22 15:52:53,219] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.228 seconds
+[2024-08-22 15:53:03,265] {scheduler_job.py:182} INFO - Started process (PID=1737) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:03,268] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:03,269] {logging_mixin.py:104} INFO - [2024-08-22 15:53:03,269] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:03,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:03,324] {logging_mixin.py:104} INFO - [2024-08-22 15:53:03,324] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:03,365] {logging_mixin.py:104} INFO - [2024-08-22 15:53:03,365] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:20:00+00:00
+[2024-08-22 15:53:03,382] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.121 seconds
+[2024-08-22 15:53:14,451] {scheduler_job.py:182} INFO - Started process (PID=1830) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:14,454] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:14,457] {logging_mixin.py:104} INFO - [2024-08-22 15:53:14,457] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:14,493] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:14,518] {logging_mixin.py:104} INFO - [2024-08-22 15:53:14,518] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:14,558] {logging_mixin.py:104} INFO - [2024-08-22 15:53:14,558] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:20:00+00:00
+[2024-08-22 15:53:14,569] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.125 seconds
+[2024-08-22 15:53:25,220] {scheduler_job.py:182} INFO - Started process (PID=1913) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:25,223] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:25,225] {logging_mixin.py:104} INFO - [2024-08-22 15:53:25,224] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:25,253] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:25,291] {logging_mixin.py:104} INFO - [2024-08-22 15:53:25,291] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:25,330] {logging_mixin.py:104} INFO - [2024-08-22 15:53:25,330] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:20:00+00:00
+[2024-08-22 15:53:25,344] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.129 seconds
+[2024-08-22 15:53:36,172] {scheduler_job.py:182} INFO - Started process (PID=1998) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:36,175] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:36,177] {logging_mixin.py:104} INFO - [2024-08-22 15:53:36,177] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:36,208] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:36,239] {logging_mixin.py:104} INFO - [2024-08-22 15:53:36,239] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:36,287] {logging_mixin.py:104} INFO - [2024-08-22 15:53:36,286] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:20:00+00:00
+[2024-08-22 15:53:36,303] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.136 seconds
+[2024-08-22 15:53:46,542] {scheduler_job.py:182} INFO - Started process (PID=2083) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:46,545] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:46,548] {logging_mixin.py:104} INFO - [2024-08-22 15:53:46,547] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:46,595] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:46,653] {logging_mixin.py:104} INFO - [2024-08-22 15:53:46,653] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:46,749] {logging_mixin.py:104} INFO - [2024-08-22 15:53:46,748] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:20:00+00:00
+[2024-08-22 15:53:46,772] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.237 seconds
+[2024-08-22 15:53:57,326] {scheduler_job.py:182} INFO - Started process (PID=2182) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:57,329] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:53:57,332] {logging_mixin.py:104} INFO - [2024-08-22 15:53:57,332] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:57,371] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:53:57,412] {logging_mixin.py:104} INFO - [2024-08-22 15:53:57,412] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:53:57,454] {logging_mixin.py:104} INFO - [2024-08-22 15:53:57,454] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:53:57,466] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.146 seconds
+[2024-08-22 15:54:00,690] {scheduler_job.py:182} INFO - Started process (PID=2236) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:00,693] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:54:00,695] {logging_mixin.py:104} INFO - [2024-08-22 15:54:00,695] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:00,738] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:00,784] {logging_mixin.py:104} INFO - [2024-08-22 15:54:00,784] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:54:00,835] {logging_mixin.py:104} INFO - [2024-08-22 15:54:00,835] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:54:00,849] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.167 seconds
+[2024-08-22 15:54:11,553] {scheduler_job.py:182} INFO - Started process (PID=2322) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:11,555] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:54:11,557] {logging_mixin.py:104} INFO - [2024-08-22 15:54:11,557] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:11,594] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:11,625] {logging_mixin.py:104} INFO - [2024-08-22 15:54:11,625] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:54:11,667] {logging_mixin.py:104} INFO - [2024-08-22 15:54:11,667] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:54:11,681] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.133 seconds
+[2024-08-22 15:54:40,392] {scheduler_job.py:182} INFO - Started process (PID=2440) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:40,394] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:54:40,395] {logging_mixin.py:104} INFO - [2024-08-22 15:54:40,395] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:40,423] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:40,454] {logging_mixin.py:104} INFO - [2024-08-22 15:54:40,454] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:54:40,487] {logging_mixin.py:104} INFO - [2024-08-22 15:54:40,487] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:54:40,498] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.112 seconds
+[2024-08-22 15:54:51,207] {scheduler_job.py:182} INFO - Started process (PID=2526) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:51,210] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:54:51,212] {logging_mixin.py:104} INFO - [2024-08-22 15:54:51,211] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:51,238] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:54:51,271] {logging_mixin.py:104} INFO - [2024-08-22 15:54:51,271] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:54:51,302] {logging_mixin.py:104} INFO - [2024-08-22 15:54:51,302] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:54:51,312] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.110 seconds
+[2024-08-22 15:55:02,017] {scheduler_job.py:182} INFO - Started process (PID=2610) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:02,020] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:02,021] {logging_mixin.py:104} INFO - [2024-08-22 15:55:02,021] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:02,047] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:02,078] {logging_mixin.py:104} INFO - [2024-08-22 15:55:02,078] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:02,109] {logging_mixin.py:104} INFO - [2024-08-22 15:55:02,108] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:02,120] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.107 seconds
+[2024-08-22 15:55:12,800] {scheduler_job.py:182} INFO - Started process (PID=2697) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:12,803] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:12,804] {logging_mixin.py:104} INFO - [2024-08-22 15:55:12,804] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:12,828] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:12,858] {logging_mixin.py:104} INFO - [2024-08-22 15:55:12,858] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:12,889] {logging_mixin.py:104} INFO - [2024-08-22 15:55:12,889] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:12,899] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.103 seconds
+[2024-08-22 15:55:23,821] {scheduler_job.py:182} INFO - Started process (PID=2780) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:23,823] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:23,825] {logging_mixin.py:104} INFO - [2024-08-22 15:55:23,825] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:23,853] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:23,886] {logging_mixin.py:104} INFO - [2024-08-22 15:55:23,886] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:23,921] {logging_mixin.py:104} INFO - [2024-08-22 15:55:23,921] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:23,934] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.120 seconds
+[2024-08-22 15:55:34,809] {scheduler_job.py:182} INFO - Started process (PID=2867) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:34,812] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:34,813] {logging_mixin.py:104} INFO - [2024-08-22 15:55:34,813] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:34,843] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:34,878] {logging_mixin.py:104} INFO - [2024-08-22 15:55:34,877] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:34,912] {logging_mixin.py:104} INFO - [2024-08-22 15:55:34,912] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:34,924] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.119 seconds
+[2024-08-22 15:55:45,886] {scheduler_job.py:182} INFO - Started process (PID=2952) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:45,892] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:45,894] {logging_mixin.py:104} INFO - [2024-08-22 15:55:45,894] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:45,942] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:45,982] {logging_mixin.py:104} INFO - [2024-08-22 15:55:45,982] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:46,027] {logging_mixin.py:104} INFO - [2024-08-22 15:55:46,027] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:46,041] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.161 seconds
+[2024-08-22 15:55:57,040] {scheduler_job.py:182} INFO - Started process (PID=3045) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:57,045] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:55:57,046] {logging_mixin.py:104} INFO - [2024-08-22 15:55:57,046] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:57,074] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:55:57,108] {logging_mixin.py:104} INFO - [2024-08-22 15:55:57,108] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:55:57,153] {logging_mixin.py:104} INFO - [2024-08-22 15:55:57,152] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:55:57,169] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.134 seconds
+[2024-08-22 15:56:07,915] {scheduler_job.py:182} INFO - Started process (PID=3130) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:07,918] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:56:07,919] {logging_mixin.py:104} INFO - [2024-08-22 15:56:07,919] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:07,945] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:07,975] {logging_mixin.py:104} INFO - [2024-08-22 15:56:07,975] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:56:08,007] {logging_mixin.py:104} INFO - [2024-08-22 15:56:08,007] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:56:08,017] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.107 seconds
+[2024-08-22 15:56:18,791] {scheduler_job.py:182} INFO - Started process (PID=3215) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:18,794] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:56:18,795] {logging_mixin.py:104} INFO - [2024-08-22 15:56:18,795] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:18,822] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:18,855] {logging_mixin.py:104} INFO - [2024-08-22 15:56:18,855] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:56:18,888] {logging_mixin.py:104} INFO - [2024-08-22 15:56:18,888] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:56:18,899] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.114 seconds
+[2024-08-22 15:56:29,705] {scheduler_job.py:182} INFO - Started process (PID=3300) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:29,708] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:56:29,710] {logging_mixin.py:104} INFO - [2024-08-22 15:56:29,709] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:29,736] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:29,770] {logging_mixin.py:104} INFO - [2024-08-22 15:56:29,770] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:56:29,804] {logging_mixin.py:104} INFO - [2024-08-22 15:56:29,804] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:56:29,814] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.115 seconds
+[2024-08-22 15:56:40,679] {scheduler_job.py:182} INFO - Started process (PID=3385) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:40,682] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:56:40,684] {logging_mixin.py:104} INFO - [2024-08-22 15:56:40,683] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:40,713] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:40,761] {logging_mixin.py:104} INFO - [2024-08-22 15:56:40,761] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:56:40,802] {logging_mixin.py:104} INFO - [2024-08-22 15:56:40,802] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:56:40,815] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.142 seconds
+[2024-08-22 15:56:51,812] {scheduler_job.py:182} INFO - Started process (PID=3470) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:51,817] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:56:51,819] {logging_mixin.py:104} INFO - [2024-08-22 15:56:51,819] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:51,852] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:56:51,898] {logging_mixin.py:104} INFO - [2024-08-22 15:56:51,897] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:56:51,955] {logging_mixin.py:104} INFO - [2024-08-22 15:56:51,955] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:56:51,978] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.178 seconds
+[2024-08-22 15:57:02,902] {scheduler_job.py:182} INFO - Started process (PID=3557) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:02,905] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:02,906] {logging_mixin.py:104} INFO - [2024-08-22 15:57:02,906] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:02,931] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:02,967] {logging_mixin.py:104} INFO - [2024-08-22 15:57:02,966] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:02,998] {logging_mixin.py:104} INFO - [2024-08-22 15:57:02,998] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:03,009] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.112 seconds
+[2024-08-22 15:57:13,674] {scheduler_job.py:182} INFO - Started process (PID=3640) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:13,676] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:13,678] {logging_mixin.py:104} INFO - [2024-08-22 15:57:13,678] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:13,701] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:13,730] {logging_mixin.py:104} INFO - [2024-08-22 15:57:13,730] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:13,759] {logging_mixin.py:104} INFO - [2024-08-22 15:57:13,758] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:13,770] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.100 seconds
+[2024-08-22 15:57:24,473] {scheduler_job.py:182} INFO - Started process (PID=3725) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:24,476] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:24,477] {logging_mixin.py:104} INFO - [2024-08-22 15:57:24,477] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:24,504] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:24,538] {logging_mixin.py:104} INFO - [2024-08-22 15:57:24,538] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:24,571] {logging_mixin.py:104} INFO - [2024-08-22 15:57:24,571] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:24,583] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.116 seconds
+[2024-08-22 15:57:35,832] {scheduler_job.py:182} INFO - Started process (PID=3812) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:35,837] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:35,840] {logging_mixin.py:104} INFO - [2024-08-22 15:57:35,840] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:35,882] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:35,926] {logging_mixin.py:104} INFO - [2024-08-22 15:57:35,925] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:35,968] {logging_mixin.py:104} INFO - [2024-08-22 15:57:35,968] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:35,984] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.164 seconds
+[2024-08-22 15:57:46,026] {scheduler_job.py:182} INFO - Started process (PID=3902) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:46,029] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:46,031] {logging_mixin.py:104} INFO - [2024-08-22 15:57:46,031] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:46,056] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:46,087] {logging_mixin.py:104} INFO - [2024-08-22 15:57:46,087] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:46,119] {logging_mixin.py:104} INFO - [2024-08-22 15:57:46,119] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:46,128] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.108 seconds
+[2024-08-22 15:57:56,967] {scheduler_job.py:182} INFO - Started process (PID=3982) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:56,970] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:57:56,973] {logging_mixin.py:104} INFO - [2024-08-22 15:57:56,973] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:57,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:57:57,049] {logging_mixin.py:104} INFO - [2024-08-22 15:57:57,048] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:57:57,092] {logging_mixin.py:104} INFO - [2024-08-22 15:57:57,092] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:57:57,107] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.146 seconds
+[2024-08-22 15:58:07,348] {scheduler_job.py:182} INFO - Started process (PID=4070) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:07,351] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:58:07,353] {logging_mixin.py:104} INFO - [2024-08-22 15:58:07,352] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:07,388] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:07,426] {logging_mixin.py:104} INFO - [2024-08-22 15:58:07,426] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:58:07,463] {logging_mixin.py:104} INFO - [2024-08-22 15:58:07,463] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:58:07,479] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.137 seconds
+[2024-08-22 15:58:18,084] {scheduler_job.py:182} INFO - Started process (PID=4150) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:18,087] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:58:18,088] {logging_mixin.py:104} INFO - [2024-08-22 15:58:18,088] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:18,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:18,153] {logging_mixin.py:104} INFO - [2024-08-22 15:58:18,153] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:58:18,191] {logging_mixin.py:104} INFO - [2024-08-22 15:58:18,191] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:58:18,203] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.124 seconds
+[2024-08-22 15:58:29,171] {scheduler_job.py:182} INFO - Started process (PID=4235) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:29,177] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:58:29,184] {logging_mixin.py:104} INFO - [2024-08-22 15:58:29,184] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:29,221] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:29,256] {logging_mixin.py:104} INFO - [2024-08-22 15:58:29,256] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:58:29,297] {logging_mixin.py:104} INFO - [2024-08-22 15:58:29,297] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:58:29,310] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.145 seconds
+[2024-08-22 15:58:40,201] {scheduler_job.py:182} INFO - Started process (PID=4320) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:40,205] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:58:40,206] {logging_mixin.py:104} INFO - [2024-08-22 15:58:40,206] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:40,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:40,288] {logging_mixin.py:104} INFO - [2024-08-22 15:58:40,288] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:58:40,333] {logging_mixin.py:104} INFO - [2024-08-22 15:58:40,333] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:58:40,348] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.155 seconds
+[2024-08-22 15:58:50,875] {scheduler_job.py:182} INFO - Started process (PID=4407) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:50,879] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:58:50,883] {logging_mixin.py:104} INFO - [2024-08-22 15:58:50,883] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:50,929] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:58:50,977] {logging_mixin.py:104} INFO - [2024-08-22 15:58:50,977] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:58:51,017] {logging_mixin.py:104} INFO - [2024-08-22 15:58:51,017] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:58:51,030] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.161 seconds
+[2024-08-22 15:59:01,157] {scheduler_job.py:182} INFO - Started process (PID=4492) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:01,162] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:59:01,165] {logging_mixin.py:104} INFO - [2024-08-22 15:59:01,164] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:01,209] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:01,255] {logging_mixin.py:104} INFO - [2024-08-22 15:59:01,255] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:59:01,307] {logging_mixin.py:104} INFO - [2024-08-22 15:59:01,307] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:59:01,326] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.178 seconds
+[2024-08-22 15:59:12,153] {scheduler_job.py:182} INFO - Started process (PID=4577) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:12,155] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:59:12,157] {logging_mixin.py:104} INFO - [2024-08-22 15:59:12,157] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:12,184] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:12,213] {logging_mixin.py:104} INFO - [2024-08-22 15:59:12,213] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:59:12,248] {logging_mixin.py:104} INFO - [2024-08-22 15:59:12,248] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:59:12,259] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.111 seconds
+[2024-08-22 15:59:43,538] {scheduler_job.py:182} INFO - Started process (PID=4670) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:43,541] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:59:43,544] {logging_mixin.py:104} INFO - [2024-08-22 15:59:43,543] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:43,586] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:43,623] {logging_mixin.py:104} INFO - [2024-08-22 15:59:43,622] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:59:43,661] {logging_mixin.py:104} INFO - [2024-08-22 15:59:43,661] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:59:43,674] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.143 seconds
+[2024-08-22 15:59:53,851] {scheduler_job.py:182} INFO - Started process (PID=4760) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:53,854] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 15:59:53,856] {logging_mixin.py:104} INFO - [2024-08-22 15:59:53,855] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:53,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 15:59:53,921] {logging_mixin.py:104} INFO - [2024-08-22 15:59:53,921] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:59:53,975] {logging_mixin.py:104} INFO - [2024-08-22 15:59:53,975] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 15:59:54,006] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.162 seconds
+[2024-08-22 16:00:05,473] {scheduler_job.py:182} INFO - Started process (PID=4852) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:05,476] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:00:05,478] {logging_mixin.py:104} INFO - [2024-08-22 16:00:05,478] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:05,517] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:05,569] {logging_mixin.py:104} INFO - [2024-08-22 16:00:05,568] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:00:05,620] {logging_mixin.py:104} INFO - [2024-08-22 16:00:05,620] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:00:05,636] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.170 seconds
+[2024-08-22 16:00:15,769] {scheduler_job.py:182} INFO - Started process (PID=4947) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:15,772] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:00:15,775] {logging_mixin.py:104} INFO - [2024-08-22 16:00:15,775] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:15,811] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:15,844] {logging_mixin.py:104} INFO - [2024-08-22 16:00:15,844] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:00:15,881] {logging_mixin.py:104} INFO - [2024-08-22 16:00:15,881] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:00:15,892] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.130 seconds
+[2024-08-22 16:00:25,961] {scheduler_job.py:182} INFO - Started process (PID=5035) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:25,964] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:00:25,965] {logging_mixin.py:104} INFO - [2024-08-22 16:00:25,965] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:25,994] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:26,029] {logging_mixin.py:104} INFO - [2024-08-22 16:00:26,029] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:00:26,068] {logging_mixin.py:104} INFO - [2024-08-22 16:00:26,068] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:00:26,083] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.131 seconds
+[2024-08-22 16:00:36,250] {scheduler_job.py:182} INFO - Started process (PID=5129) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:36,253] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:00:36,254] {logging_mixin.py:104} INFO - [2024-08-22 16:00:36,254] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:36,279] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:00:36,310] {logging_mixin.py:104} INFO - [2024-08-22 16:00:36,310] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:00:36,345] {logging_mixin.py:104} INFO - [2024-08-22 16:00:36,345] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:00:36,357] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.112 seconds
+[2024-08-22 16:02:27,962] {scheduler_job.py:182} INFO - Started process (PID=191) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:27,965] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:02:27,968] {logging_mixin.py:104} INFO - [2024-08-22 16:02:27,968] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:28,089] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:28,155] {logging_mixin.py:104} INFO - [2024-08-22 16:02:28,155] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:02:28,250] {logging_mixin.py:104} INFO - [2024-08-22 16:02:28,250] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:02:28,265] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.315 seconds
+[2024-08-22 16:02:38,472] {scheduler_job.py:182} INFO - Started process (PID=287) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:38,474] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:02:38,476] {logging_mixin.py:104} INFO - [2024-08-22 16:02:38,475] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:38,505] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:38,548] {logging_mixin.py:104} INFO - [2024-08-22 16:02:38,548] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:02:38,593] {logging_mixin.py:104} INFO - [2024-08-22 16:02:38,593] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:02:38,605] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.137 seconds
+[2024-08-22 16:02:49,025] {scheduler_job.py:182} INFO - Started process (PID=367) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:49,050] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:02:49,052] {logging_mixin.py:104} INFO - [2024-08-22 16:02:49,052] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:49,176] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:49,285] {logging_mixin.py:104} INFO - [2024-08-22 16:02:49,285] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:02:49,511] {logging_mixin.py:104} INFO - [2024-08-22 16:02:49,510] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:02:49,547] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.532 seconds
+[2024-08-22 16:02:59,728] {scheduler_job.py:182} INFO - Started process (PID=447) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:59,731] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:02:59,733] {logging_mixin.py:104} INFO - [2024-08-22 16:02:59,732] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:59,784] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:02:59,821] {logging_mixin.py:104} INFO - [2024-08-22 16:02:59,821] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:02:59,864] {logging_mixin.py:104} INFO - [2024-08-22 16:02:59,864] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:02:59,882] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.159 seconds
+[2024-08-22 16:03:09,936] {scheduler_job.py:182} INFO - Started process (PID=542) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:09,939] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:03:09,942] {logging_mixin.py:104} INFO - [2024-08-22 16:03:09,942] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:09,972] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:10,015] {logging_mixin.py:104} INFO - [2024-08-22 16:03:10,015] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:03:10,056] {logging_mixin.py:104} INFO - [2024-08-22 16:03:10,056] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:03:10,069] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.140 seconds
+[2024-08-22 16:03:20,162] {scheduler_job.py:182} INFO - Started process (PID=627) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:20,165] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:03:20,168] {logging_mixin.py:104} INFO - [2024-08-22 16:03:20,167] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:20,218] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:20,263] {logging_mixin.py:104} INFO - [2024-08-22 16:03:20,263] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:03:20,307] {logging_mixin.py:104} INFO - [2024-08-22 16:03:20,307] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:03:20,321] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.166 seconds
+[2024-08-22 16:03:30,424] {scheduler_job.py:182} INFO - Started process (PID=722) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:30,427] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:03:30,429] {logging_mixin.py:104} INFO - [2024-08-22 16:03:30,429] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:30,479] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:30,516] {logging_mixin.py:104} INFO - [2024-08-22 16:03:30,516] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:03:30,558] {logging_mixin.py:104} INFO - [2024-08-22 16:03:30,558] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:03:30,570] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.153 seconds
+[2024-08-22 16:03:41,118] {scheduler_job.py:182} INFO - Started process (PID=832) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:41,119] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:03:41,121] {logging_mixin.py:104} INFO - [2024-08-22 16:03:41,121] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:41,144] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:41,179] {logging_mixin.py:104} INFO - [2024-08-22 16:03:41,178] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:03:41,213] {logging_mixin.py:104} INFO - [2024-08-22 16:03:41,212] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:03:41,231] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.118 seconds
+[2024-08-22 16:03:51,276] {scheduler_job.py:182} INFO - Started process (PID=925) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:51,278] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:03:51,279] {logging_mixin.py:104} INFO - [2024-08-22 16:03:51,279] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:51,324] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:03:51,367] {logging_mixin.py:104} INFO - [2024-08-22 16:03:51,366] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:03:51,415] {logging_mixin.py:104} INFO - [2024-08-22 16:03:51,415] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:03:51,432] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.163 seconds
+[2024-08-22 16:04:01,488] {scheduler_job.py:182} INFO - Started process (PID=1017) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:01,491] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:01,494] {logging_mixin.py:104} INFO - [2024-08-22 16:04:01,494] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:01,542] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:01,576] {logging_mixin.py:104} INFO - [2024-08-22 16:04:01,576] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:01,613] {logging_mixin.py:104} INFO - [2024-08-22 16:04:01,613] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:01,625] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.142 seconds
+[2024-08-22 16:04:11,921] {scheduler_job.py:182} INFO - Started process (PID=1077) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:11,925] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:11,927] {logging_mixin.py:104} INFO - [2024-08-22 16:04:11,927] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:11,962] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:11,991] {logging_mixin.py:104} INFO - [2024-08-22 16:04:11,991] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:12,025] {logging_mixin.py:104} INFO - [2024-08-22 16:04:12,025] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:12,036] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.126 seconds
+[2024-08-22 16:04:22,114] {scheduler_job.py:182} INFO - Started process (PID=1167) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:22,117] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:22,119] {logging_mixin.py:104} INFO - [2024-08-22 16:04:22,118] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:22,164] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:22,210] {logging_mixin.py:104} INFO - [2024-08-22 16:04:22,210] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:22,261] {logging_mixin.py:104} INFO - [2024-08-22 16:04:22,261] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:22,277] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.168 seconds
+[2024-08-22 16:04:32,354] {scheduler_job.py:182} INFO - Started process (PID=1267) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:32,358] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:32,360] {logging_mixin.py:104} INFO - [2024-08-22 16:04:32,359] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:32,407] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:32,442] {logging_mixin.py:104} INFO - [2024-08-22 16:04:32,441] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:32,478] {logging_mixin.py:104} INFO - [2024-08-22 16:04:32,477] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:32,490] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.141 seconds
+[2024-08-22 16:04:43,229] {scheduler_job.py:182} INFO - Started process (PID=1347) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:43,232] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:43,233] {logging_mixin.py:104} INFO - [2024-08-22 16:04:43,233] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:43,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:43,312] {logging_mixin.py:104} INFO - [2024-08-22 16:04:43,311] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:43,386] {logging_mixin.py:104} INFO - [2024-08-22 16:04:43,386] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:43,422] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.200 seconds
+[2024-08-22 16:04:54,209] {scheduler_job.py:182} INFO - Started process (PID=1437) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:54,212] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:04:54,214] {logging_mixin.py:104} INFO - [2024-08-22 16:04:54,214] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:54,272] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:04:54,320] {logging_mixin.py:104} INFO - [2024-08-22 16:04:54,320] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:04:54,387] {logging_mixin.py:104} INFO - [2024-08-22 16:04:54,387] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:04:54,408] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.208 seconds
+[2024-08-22 16:05:04,531] {scheduler_job.py:182} INFO - Started process (PID=1537) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:04,533] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:05:04,535] {logging_mixin.py:104} INFO - [2024-08-22 16:05:04,535] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:04,590] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:04,630] {logging_mixin.py:104} INFO - [2024-08-22 16:05:04,630] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:05:04,672] {logging_mixin.py:104} INFO - [2024-08-22 16:05:04,672] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:05:04,684] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.163 seconds
+[2024-08-22 16:05:15,703] {scheduler_job.py:182} INFO - Started process (PID=1627) to work on /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:15,705] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/bank_accounts_dag.py for tasks to queue
+[2024-08-22 16:05:15,707] {logging_mixin.py:104} INFO - [2024-08-22 16:05:15,707] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:15,774] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['BANK_ACCOUNT_T24_TO_ERP']) retrieved from /opt/airflow/dags/bank_accounts_dag.py
+[2024-08-22 16:05:15,840] {logging_mixin.py:104} INFO - [2024-08-22 16:05:15,839] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 16:05:15,926] {logging_mixin.py:104} INFO - [2024-08-22 16:05:15,926] {dag.py:2273} INFO - Setting next_dagrun for BANK_ACCOUNT_T24_TO_ERP to 2024-08-22T15:40:00+00:00
+[2024-08-22 16:05:15,999] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/bank_accounts_dag.py took 0.306 seconds

@@ -1,0 +1,21 @@
+[2024-06-24 15:02:53,272] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.get_name 2024-03-11T00:00:00+00:00 [queued]>
+[2024-06-24 15:02:53,370] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.get_name 2024-03-11T00:00:00+00:00 [queued]>
+[2024-06-24 15:02:53,371] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 15:02:53,376] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 15:02:53,376] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 15:02:53,427] {taskinstance.py:1063} INFO - Executing <Task(_PythonDecoratedOperator): get_name> on 2024-03-11T00:00:00+00:00
+[2024-06-24 15:02:53,452] {standard_task_runner.py:52} INFO - Started process 30064 to run task
+[2024-06-24 15:02:53,469] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_taskflow_api_v02', 'get_name', '2024-03-11T00:00:00+00:00', '--job-id', '10579', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_taskflow_api.py', '--cfg-path', '/tmp/tmpuebgrum0', '--error-file', '/tmp/tmp_fbz_uck']
+[2024-06-24 15:02:53,506] {standard_task_runner.py:77} INFO - Job 10579: Subtask get_name
+[2024-06-24 15:02:53,739] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_taskflow_api_v02.get_name 2024-03-11T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 15:02:53,991] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=dag_with_taskflow_api_v02
+AIRFLOW_CTX_TASK_ID=get_name
+AIRFLOW_CTX_EXECUTION_DATE=2024-03-11T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-03-11T00:00:00+00:00
+[2024-06-24 15:02:54,343] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_taskflow_api_v02, task_id=get_name, execution_date=20240311T000000, start_date=20240624T150253, end_date=20240624T150254
+[2024-06-24 15:02:54,630] {taskinstance.py:1220} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 15:02:54,714] {local_task_job.py:146} INFO - Task exited with return code 0

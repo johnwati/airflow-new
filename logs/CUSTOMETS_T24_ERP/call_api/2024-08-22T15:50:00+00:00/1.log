@@ -1,0 +1,23 @@
+[2024-08-22 15:54:01,091] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: CUSTOMETS_T24_ERP.call_api 2024-08-22T15:50:00+00:00 [queued]>
+[2024-08-22 15:54:01,108] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: CUSTOMETS_T24_ERP.call_api 2024-08-22T15:50:00+00:00 [queued]>
+[2024-08-22 15:54:01,109] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-22 15:54:01,110] {taskinstance.py:1043} INFO - Starting attempt 1 of 2
+[2024-08-22 15:54:01,111] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-22 15:54:01,138] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): call_api> on 2024-08-22T15:50:00+00:00
+[2024-08-22 15:54:01,145] {standard_task_runner.py:52} INFO - Started process 2243 to run task
+[2024-08-22 15:54:01,154] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'CUSTOMETS_T24_ERP', 'call_api', '2024-08-22T15:50:00+00:00', '--job-id', '13015', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/customers_dag.py', '--cfg-path', '/tmp/tmptgamndtk', '--error-file', '/tmp/tmp3b3f7h2w']
+[2024-08-22 15:54:01,160] {standard_task_runner.py:77} INFO - Job 13015: Subtask call_api
+[2024-08-22 15:54:01,269] {logging_mixin.py:104} INFO - Running <TaskInstance: CUSTOMETS_T24_ERP.call_api 2024-08-22T15:50:00+00:00 [running]> on host 145716d15057
+[2024-08-22 15:54:01,342] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=CUSTOMETS_T24_ERP
+AIRFLOW_CTX_TASK_ID=call_api
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-22T15:50:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-22T15:50:00+00:00
+[2024-08-22 15:54:01,455] {logging_mixin.py:104} INFO - API call failed with status code 500
+[2024-08-22 15:54:01,457] {python.py:118} INFO - Done. Returned value was: None
+[2024-08-22 15:54:01,475] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=CUSTOMETS_T24_ERP, task_id=call_api, execution_date=20240822T155000, start_date=20240822T155401, end_date=20240822T155401
+[2024-08-22 15:54:01,514] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-22 15:54:01,535] {local_task_job.py:146} INFO - Task exited with return code 0

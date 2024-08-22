@@ -1,0 +1,27 @@
+[2024-06-24 12:55:51,908] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_first_dag_v5.second_task 2021-10-19T00:00:00+00:00 [queued]>
+[2024-06-24 12:55:52,010] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_first_dag_v5.second_task 2021-10-19T00:00:00+00:00 [queued]>
+[2024-06-24 12:55:52,023] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:55:52,025] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 12:55:52,026] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:55:52,367] {taskinstance.py:1063} INFO - Executing <Task(BashOperator): second_task> on 2021-10-19T00:00:00+00:00
+[2024-06-24 12:55:52,410] {standard_task_runner.py:52} INFO - Started process 31074 to run task
+[2024-06-24 12:55:52,453] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'our_first_dag_v5', 'second_task', '2021-10-19T00:00:00+00:00', '--job-id', '1370', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/our_first_dag.py', '--cfg-path', '/tmp/tmpjdamrpk2', '--error-file', '/tmp/tmpg94l3vdw']
+[2024-06-24 12:55:52,485] {standard_task_runner.py:77} INFO - Job 1370: Subtask second_task
+[2024-06-24 12:55:52,877] {logging_mixin.py:104} INFO - Running <TaskInstance: our_first_dag_v5.second_task 2021-10-19T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 12:55:53,158] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=our_first_dag_v5
+AIRFLOW_CTX_TASK_ID=second_task
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-19T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-10-19T00:00:00+00:00
+[2024-06-24 12:55:53,166] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2024-06-24 12:55:53,172] {bash.py:158} INFO - Running command: echo hey, I am task2 and will be running after task1!
+[2024-06-24 12:55:53,203] {bash.py:169} INFO - Output:
+[2024-06-24 12:55:53,207] {bash.py:173} INFO - hey, I am task2 and will be running after task1!
+[2024-06-24 12:55:53,211] {bash.py:177} INFO - Command exited with return code 0
+[2024-06-24 12:55:53,365] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=our_first_dag_v5, task_id=second_task, execution_date=20211019T000000, start_date=20240624T125551, end_date=20240624T125553
+[2024-06-24 12:55:53,643] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 12:55:53,733] {local_task_job.py:146} INFO - Task exited with return code 0

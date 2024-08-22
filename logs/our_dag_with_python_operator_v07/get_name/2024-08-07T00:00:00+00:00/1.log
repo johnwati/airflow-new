@@ -1,0 +1,12 @@
+[2024-08-08 00:15:29,631] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.get_name 2024-08-07T00:00:00+00:00 [queued]>
+[2024-08-08 00:15:29,691] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v07.get_name 2024-08-07T00:00:00+00:00 [queued]>
+[2024-08-08 00:15:29,723] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-08 00:15:29,727] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-08-08 00:15:29,737] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-08 00:15:29,791] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): get_name> on 2024-08-07T00:00:00+00:00
+[2024-08-08 00:15:29,804] {standard_task_runner.py:52} INFO - Started process 34809 to run task
+[2024-08-08 00:15:29,847] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'our_dag_with_python_operator_v07', 'get_name', '2024-08-07T00:00:00+00:00', '--job-id', '12722', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_with_python_operator.py', '--cfg-path', '/tmp/tmpt195va1w', '--error-file', '/tmp/tmpjfyfbl1_']
+[2024-08-08 00:15:29,875] {standard_task_runner.py:77} INFO - Job 12722: Subtask get_name
+[2024-08-08 00:15:31,686] {local_task_job.py:146} INFO - Task exited with return code 0

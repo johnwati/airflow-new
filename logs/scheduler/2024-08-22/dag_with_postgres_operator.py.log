@@ -1,0 +1,745 @@
+[2024-08-22 15:35:10,711] {scheduler_job.py:182} INFO - Started process (PID=202) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:10,714] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:35:10,717] {logging_mixin.py:104} INFO - [2024-08-22 15:35:10,716] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:10,731] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:10,760] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.056 seconds
+[2024-08-22 15:35:21,459] {scheduler_job.py:182} INFO - Started process (PID=260) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:21,465] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:35:21,467] {logging_mixin.py:104} INFO - [2024-08-22 15:35:21,467] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:21,476] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:21,501] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.048 seconds
+[2024-08-22 15:35:32,166] {scheduler_job.py:182} INFO - Started process (PID=330) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:32,168] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:35:32,169] {logging_mixin.py:104} INFO - [2024-08-22 15:35:32,169] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:32,179] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:32,207] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.049 seconds
+[2024-08-22 15:35:42,727] {scheduler_job.py:182} INFO - Started process (PID=392) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:42,729] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:35:42,730] {logging_mixin.py:104} INFO - [2024-08-22 15:35:42,730] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:42,739] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:42,761] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:35:53,612] {scheduler_job.py:182} INFO - Started process (PID=462) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:53,615] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:35:53,616] {logging_mixin.py:104} INFO - [2024-08-22 15:35:53,616] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:53,625] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:35:53,649] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:36:04,210] {scheduler_job.py:182} INFO - Started process (PID=522) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:04,215] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:04,218] {logging_mixin.py:104} INFO - [2024-08-22 15:36:04,218] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:04,232] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:04,271] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.067 seconds
+[2024-08-22 15:36:14,997] {scheduler_job.py:182} INFO - Started process (PID=591) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:15,000] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:15,003] {logging_mixin.py:104} INFO - [2024-08-22 15:36:15,002] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:15,016] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:15,045] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.058 seconds
+[2024-08-22 15:36:25,522] {scheduler_job.py:182} INFO - Started process (PID=652) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:25,524] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:25,526] {logging_mixin.py:104} INFO - [2024-08-22 15:36:25,526] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:25,535] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:25,558] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:36:36,204] {scheduler_job.py:182} INFO - Started process (PID=722) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:36,208] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:36,210] {logging_mixin.py:104} INFO - [2024-08-22 15:36:36,209] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:36,219] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:36,246] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.047 seconds
+[2024-08-22 15:36:46,759] {scheduler_job.py:182} INFO - Started process (PID=784) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:46,763] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:46,765] {logging_mixin.py:104} INFO - [2024-08-22 15:36:46,764] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:46,773] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:46,795] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:36:57,376] {scheduler_job.py:182} INFO - Started process (PID=849) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:57,379] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:36:57,380] {logging_mixin.py:104} INFO - [2024-08-22 15:36:57,380] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:57,387] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:36:57,407] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.035 seconds
+[2024-08-22 15:37:08,032] {scheduler_job.py:182} INFO - Started process (PID=917) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:08,036] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:37:08,041] {logging_mixin.py:104} INFO - [2024-08-22 15:37:08,041] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:08,052] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:08,082] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.056 seconds
+[2024-08-22 15:37:18,795] {scheduler_job.py:182} INFO - Started process (PID=981) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:18,797] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:37:18,798] {logging_mixin.py:104} INFO - [2024-08-22 15:37:18,798] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:18,806] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:18,828] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:37:29,398] {scheduler_job.py:182} INFO - Started process (PID=1044) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:29,401] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:37:29,402] {logging_mixin.py:104} INFO - [2024-08-22 15:37:29,402] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:29,410] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:29,430] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:37:39,890] {scheduler_job.py:182} INFO - Started process (PID=1107) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:39,892] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:37:39,893] {logging_mixin.py:104} INFO - [2024-08-22 15:37:39,893] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:39,901] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:39,921] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:37:50,392] {scheduler_job.py:182} INFO - Started process (PID=1176) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:50,394] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:37:50,395] {logging_mixin.py:104} INFO - [2024-08-22 15:37:50,395] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:50,402] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:37:50,421] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.033 seconds
+[2024-08-22 15:38:00,895] {scheduler_job.py:182} INFO - Started process (PID=1238) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:00,898] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:00,900] {logging_mixin.py:104} INFO - [2024-08-22 15:38:00,900] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:00,909] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:00,934] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 15:38:11,567] {scheduler_job.py:182} INFO - Started process (PID=1304) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:11,570] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:11,571] {logging_mixin.py:104} INFO - [2024-08-22 15:38:11,571] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:11,583] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:11,608] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 15:38:22,201] {scheduler_job.py:182} INFO - Started process (PID=1373) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:22,204] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:22,205] {logging_mixin.py:104} INFO - [2024-08-22 15:38:22,205] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:22,212] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:22,234] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:38:32,727] {scheduler_job.py:182} INFO - Started process (PID=1434) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:32,735] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:32,745] {logging_mixin.py:104} INFO - [2024-08-22 15:38:32,744] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:32,788] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:32,818] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.098 seconds
+[2024-08-22 15:38:43,958] {scheduler_job.py:182} INFO - Started process (PID=1504) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:43,963] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:43,970] {logging_mixin.py:104} INFO - [2024-08-22 15:38:43,970] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:43,987] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:44,030] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.082 seconds
+[2024-08-22 15:38:54,741] {scheduler_job.py:182} INFO - Started process (PID=1571) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:54,743] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:38:54,744] {logging_mixin.py:104} INFO - [2024-08-22 15:38:54,744] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:54,751] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:38:54,774] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:39:05,329] {scheduler_job.py:182} INFO - Started process (PID=1629) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:05,331] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:39:05,333] {logging_mixin.py:104} INFO - [2024-08-22 15:39:05,333] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:05,341] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:05,367] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:39:15,945] {scheduler_job.py:182} INFO - Started process (PID=1701) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:15,947] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:39:15,949] {logging_mixin.py:104} INFO - [2024-08-22 15:39:15,948] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:15,957] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:15,978] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:39:26,505] {scheduler_job.py:182} INFO - Started process (PID=1761) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:26,507] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:39:26,509] {logging_mixin.py:104} INFO - [2024-08-22 15:39:26,509] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:26,517] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:26,539] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:39:37,048] {scheduler_job.py:182} INFO - Started process (PID=1826) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:37,051] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:39:37,052] {logging_mixin.py:104} INFO - [2024-08-22 15:39:37,052] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:37,061] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:39:37,081] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:40:01,165] {scheduler_job.py:182} INFO - Started process (PID=1895) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:01,167] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:01,169] {logging_mixin.py:104} INFO - [2024-08-22 15:40:01,169] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:01,177] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:01,200] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:40:11,815] {scheduler_job.py:182} INFO - Started process (PID=1956) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:11,817] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:11,819] {logging_mixin.py:104} INFO - [2024-08-22 15:40:11,819] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:11,829] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:11,851] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 15:40:22,395] {scheduler_job.py:182} INFO - Started process (PID=2028) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:22,398] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:22,399] {logging_mixin.py:104} INFO - [2024-08-22 15:40:22,399] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:22,410] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:22,430] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:40:33,093] {scheduler_job.py:182} INFO - Started process (PID=2093) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:33,095] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:33,097] {logging_mixin.py:104} INFO - [2024-08-22 15:40:33,097] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:33,105] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:33,136] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.049 seconds
+[2024-08-22 15:40:43,664] {scheduler_job.py:182} INFO - Started process (PID=2156) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:43,667] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:43,668] {logging_mixin.py:104} INFO - [2024-08-22 15:40:43,668] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:43,677] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:43,698] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:40:54,227] {scheduler_job.py:182} INFO - Started process (PID=2220) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:54,229] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:40:54,231] {logging_mixin.py:104} INFO - [2024-08-22 15:40:54,231] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:54,242] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:40:54,266] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.045 seconds
+[2024-08-22 15:41:04,945] {scheduler_job.py:182} INFO - Started process (PID=2288) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:04,948] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:04,950] {logging_mixin.py:104} INFO - [2024-08-22 15:41:04,950] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:04,960] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:04,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.048 seconds
+[2024-08-22 15:41:15,853] {scheduler_job.py:182} INFO - Started process (PID=2353) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:15,858] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:15,860] {logging_mixin.py:104} INFO - [2024-08-22 15:41:15,860] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:15,911] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:15,955] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.110 seconds
+[2024-08-22 15:41:26,073] {scheduler_job.py:182} INFO - Started process (PID=2416) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:26,076] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:26,078] {logging_mixin.py:104} INFO - [2024-08-22 15:41:26,077] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:26,087] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:26,115] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.052 seconds
+[2024-08-22 15:41:36,709] {scheduler_job.py:182} INFO - Started process (PID=2481) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:36,711] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:36,713] {logging_mixin.py:104} INFO - [2024-08-22 15:41:36,713] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:36,721] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:36,742] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:41:47,765] {scheduler_job.py:182} INFO - Started process (PID=2546) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:47,769] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:47,772] {logging_mixin.py:104} INFO - [2024-08-22 15:41:47,771] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:47,784] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:47,814] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.058 seconds
+[2024-08-22 15:41:58,599] {scheduler_job.py:182} INFO - Started process (PID=2608) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:58,605] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:41:58,610] {logging_mixin.py:104} INFO - [2024-08-22 15:41:58,610] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:58,625] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:41:58,666] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.074 seconds
+[2024-08-22 15:42:09,202] {scheduler_job.py:182} INFO - Started process (PID=2675) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:09,208] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:42:09,210] {logging_mixin.py:104} INFO - [2024-08-22 15:42:09,210] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:09,223] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:09,268] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.072 seconds
+[2024-08-22 15:42:19,742] {scheduler_job.py:182} INFO - Started process (PID=2740) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:19,746] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:42:19,747] {logging_mixin.py:104} INFO - [2024-08-22 15:42:19,747] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:19,755] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:19,779] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:42:30,462] {scheduler_job.py:182} INFO - Started process (PID=2805) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:30,464] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:42:30,466] {logging_mixin.py:104} INFO - [2024-08-22 15:42:30,466] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:30,473] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:30,495] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:42:40,993] {scheduler_job.py:182} INFO - Started process (PID=2868) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:40,995] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:42:40,997] {logging_mixin.py:104} INFO - [2024-08-22 15:42:40,997] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:41,005] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:41,028] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:42:51,593] {scheduler_job.py:182} INFO - Started process (PID=2935) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:51,595] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:42:51,597] {logging_mixin.py:104} INFO - [2024-08-22 15:42:51,597] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:51,606] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:42:51,648] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.060 seconds
+[2024-08-22 15:43:02,265] {scheduler_job.py:182} INFO - Started process (PID=2998) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:02,269] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:02,271] {logging_mixin.py:104} INFO - [2024-08-22 15:43:02,271] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:02,282] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:02,316] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.059 seconds
+[2024-08-22 15:43:12,967] {scheduler_job.py:182} INFO - Started process (PID=3065) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:12,969] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:12,971] {logging_mixin.py:104} INFO - [2024-08-22 15:43:12,970] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:12,977] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:12,997] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:43:23,428] {scheduler_job.py:182} INFO - Started process (PID=3128) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:23,432] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:23,457] {logging_mixin.py:104} INFO - [2024-08-22 15:43:23,456] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:23,467] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:23,492] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.072 seconds
+[2024-08-22 15:43:34,023] {scheduler_job.py:182} INFO - Started process (PID=3193) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:34,025] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:34,027] {logging_mixin.py:104} INFO - [2024-08-22 15:43:34,026] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:34,036] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:34,057] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:43:44,615] {scheduler_job.py:182} INFO - Started process (PID=3258) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:44,618] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:44,619] {logging_mixin.py:104} INFO - [2024-08-22 15:43:44,619] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:44,627] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:44,649] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:43:55,284] {scheduler_job.py:182} INFO - Started process (PID=3323) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:55,287] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:43:55,289] {logging_mixin.py:104} INFO - [2024-08-22 15:43:55,289] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:55,306] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:43:55,347] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.072 seconds
+[2024-08-22 15:44:06,191] {scheduler_job.py:182} INFO - Started process (PID=3392) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:06,194] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:44:06,196] {logging_mixin.py:104} INFO - [2024-08-22 15:44:06,196] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:06,207] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:06,241] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.057 seconds
+[2024-08-22 15:44:16,712] {scheduler_job.py:182} INFO - Started process (PID=3454) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:16,714] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:44:16,716] {logging_mixin.py:104} INFO - [2024-08-22 15:44:16,716] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:16,725] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:16,756] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.049 seconds
+[2024-08-22 15:44:27,284] {scheduler_job.py:182} INFO - Started process (PID=3520) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:27,288] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:44:27,290] {logging_mixin.py:104} INFO - [2024-08-22 15:44:27,290] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:27,305] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:27,334] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.056 seconds
+[2024-08-22 15:44:38,056] {scheduler_job.py:182} INFO - Started process (PID=3587) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:38,059] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:44:38,061] {logging_mixin.py:104} INFO - [2024-08-22 15:44:38,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:38,069] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:44:38,093] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 15:45:04,677] {scheduler_job.py:182} INFO - Started process (PID=3645) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:04,680] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:04,681] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,681] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:04,691] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:04,716] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.045 seconds
+[2024-08-22 15:45:14,894] {scheduler_job.py:182} INFO - Started process (PID=3734) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:14,899] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:14,900] {logging_mixin.py:104} INFO - [2024-08-22 15:45:14,900] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:14,913] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:14,941] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.055 seconds
+[2024-08-22 15:45:25,496] {scheduler_job.py:182} INFO - Started process (PID=3829) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:25,500] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:25,501] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,501] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:25,518] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:25,563] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.075 seconds
+[2024-08-22 15:45:35,835] {scheduler_job.py:182} INFO - Started process (PID=3925) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:35,860] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:35,897] {logging_mixin.py:104} INFO - [2024-08-22 15:45:35,897] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:35,926] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:35,982] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.155 seconds
+[2024-08-22 15:45:46,140] {scheduler_job.py:182} INFO - Started process (PID=4015) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:46,143] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:46,145] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,144] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:46,155] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:46,216] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.082 seconds
+[2024-08-22 15:45:57,096] {scheduler_job.py:182} INFO - Started process (PID=4100) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:57,098] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:45:57,100] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,100] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:57,110] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:45:57,139] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.051 seconds
+[2024-08-22 15:46:07,905] {scheduler_job.py:182} INFO - Started process (PID=4192) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:07,907] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:46:07,909] {logging_mixin.py:104} INFO - [2024-08-22 15:46:07,908] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:07,916] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:07,939] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:46:18,637] {scheduler_job.py:182} INFO - Started process (PID=4282) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:18,640] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:46:18,642] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,642] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:18,653] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:18,678] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 15:46:29,469] {scheduler_job.py:182} INFO - Started process (PID=4372) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:29,471] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:46:29,473] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,472] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:29,481] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:29,504] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:46:40,338] {scheduler_job.py:182} INFO - Started process (PID=4462) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:40,343] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:46:40,348] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,347] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:40,358] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:40,390] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.062 seconds
+[2024-08-22 15:46:50,547] {scheduler_job.py:182} INFO - Started process (PID=4552) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:50,551] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:46:50,553] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,552] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:50,561] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:46:50,586] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.044 seconds
+[2024-08-22 15:47:01,560] {scheduler_job.py:182} INFO - Started process (PID=4642) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:01,565] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:01,567] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,566] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:01,578] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:01,608] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.054 seconds
+[2024-08-22 15:47:12,456] {scheduler_job.py:182} INFO - Started process (PID=4732) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:12,459] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:12,461] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,461] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:12,473] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:12,501] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.050 seconds
+[2024-08-22 15:47:23,608] {scheduler_job.py:182} INFO - Started process (PID=4822) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:23,611] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:23,613] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,613] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:23,628] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:23,664] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.064 seconds
+[2024-08-22 15:47:33,875] {scheduler_job.py:182} INFO - Started process (PID=4906) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:33,877] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:33,879] {logging_mixin.py:104} INFO - [2024-08-22 15:47:33,878] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:33,887] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:33,907] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:47:45,009] {scheduler_job.py:182} INFO - Started process (PID=5002) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:45,011] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:45,013] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,013] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:45,020] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:45,046] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:47:55,958] {scheduler_job.py:182} INFO - Started process (PID=5092) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:55,961] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:47:55,963] {logging_mixin.py:104} INFO - [2024-08-22 15:47:55,963] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:55,973] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:47:55,997] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.048 seconds
+[2024-08-22 15:48:06,791] {scheduler_job.py:182} INFO - Started process (PID=5184) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:06,793] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:48:06,796] {logging_mixin.py:104} INFO - [2024-08-22 15:48:06,795] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:06,808] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:06,845] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.061 seconds
+[2024-08-22 15:48:17,746] {scheduler_job.py:182} INFO - Started process (PID=5274) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:17,751] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:48:17,754] {logging_mixin.py:104} INFO - [2024-08-22 15:48:17,754] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:17,769] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:17,798] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.058 seconds
+[2024-08-22 15:48:28,599] {scheduler_job.py:182} INFO - Started process (PID=5364) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:28,603] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:48:28,605] {logging_mixin.py:104} INFO - [2024-08-22 15:48:28,605] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:28,614] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:28,645] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.051 seconds
+[2024-08-22 15:48:39,644] {scheduler_job.py:182} INFO - Started process (PID=5454) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:39,646] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:48:39,648] {logging_mixin.py:104} INFO - [2024-08-22 15:48:39,648] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:39,657] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:48:39,681] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:49:48,676] {scheduler_job.py:182} INFO - Started process (PID=229) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:48,679] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:49:48,681] {logging_mixin.py:104} INFO - [2024-08-22 15:49:48,681] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:48,692] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:48,725] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.057 seconds
+[2024-08-22 15:49:59,156] {scheduler_job.py:182} INFO - Started process (PID=278) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:59,158] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:49:59,159] {logging_mixin.py:104} INFO - [2024-08-22 15:49:59,159] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:59,167] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:49:59,187] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:50:10,056] {scheduler_job.py:182} INFO - Started process (PID=365) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:10,058] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:50:10,060] {logging_mixin.py:104} INFO - [2024-08-22 15:50:10,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:10,072] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:10,093] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:50:20,926] {scheduler_job.py:182} INFO - Started process (PID=450) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:20,928] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:50:20,930] {logging_mixin.py:104} INFO - [2024-08-22 15:50:20,930] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:20,939] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:20,961] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:50:31,850] {scheduler_job.py:182} INFO - Started process (PID=535) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:31,852] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:50:31,854] {logging_mixin.py:104} INFO - [2024-08-22 15:50:31,854] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:31,862] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:31,890] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 15:50:42,685] {scheduler_job.py:182} INFO - Started process (PID=620) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:42,687] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:50:42,689] {logging_mixin.py:104} INFO - [2024-08-22 15:50:42,689] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:42,697] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:42,780] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.101 seconds
+[2024-08-22 15:50:52,820] {scheduler_job.py:182} INFO - Started process (PID=703) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:52,823] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:50:52,825] {logging_mixin.py:104} INFO - [2024-08-22 15:50:52,824] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:52,833] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:50:52,853] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:51:03,044] {scheduler_job.py:182} INFO - Started process (PID=788) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:03,052] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:03,061] {logging_mixin.py:104} INFO - [2024-08-22 15:51:03,061] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:03,097] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:03,120] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.083 seconds
+[2024-08-22 15:51:13,244] {scheduler_job.py:182} INFO - Started process (PID=873) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:13,246] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:13,247] {logging_mixin.py:104} INFO - [2024-08-22 15:51:13,247] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:13,254] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:13,275] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:51:23,775] {scheduler_job.py:182} INFO - Started process (PID=958) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:23,779] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:23,785] {logging_mixin.py:104} INFO - [2024-08-22 15:51:23,784] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:23,808] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:23,851] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.084 seconds
+[2024-08-22 15:51:33,918] {scheduler_job.py:182} INFO - Started process (PID=1043) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:33,921] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:33,923] {logging_mixin.py:104} INFO - [2024-08-22 15:51:33,923] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:33,932] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:33,963] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.050 seconds
+[2024-08-22 15:51:44,757] {scheduler_job.py:182} INFO - Started process (PID=1128) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:44,759] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:44,760] {logging_mixin.py:104} INFO - [2024-08-22 15:51:44,760] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:44,769] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:44,795] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.043 seconds
+[2024-08-22 15:51:55,697] {scheduler_job.py:182} INFO - Started process (PID=1213) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:55,700] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:51:55,701] {logging_mixin.py:104} INFO - [2024-08-22 15:51:55,701] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:55,709] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:51:55,729] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:52:06,736] {scheduler_job.py:182} INFO - Started process (PID=1300) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:06,739] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:52:06,741] {logging_mixin.py:104} INFO - [2024-08-22 15:52:06,740] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:06,749] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:06,770] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:52:17,584] {scheduler_job.py:182} INFO - Started process (PID=1385) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:17,588] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:52:17,590] {logging_mixin.py:104} INFO - [2024-08-22 15:52:17,589] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:17,599] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:17,629] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.053 seconds
+[2024-08-22 15:52:28,527] {scheduler_job.py:182} INFO - Started process (PID=1470) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:28,529] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:52:28,531] {logging_mixin.py:104} INFO - [2024-08-22 15:52:28,530] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:28,539] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:28,559] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:52:39,409] {scheduler_job.py:182} INFO - Started process (PID=1555) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:39,411] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:52:39,413] {logging_mixin.py:104} INFO - [2024-08-22 15:52:39,412] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:39,419] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:39,441] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:52:49,908] {scheduler_job.py:182} INFO - Started process (PID=1640) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:49,911] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:52:49,912] {logging_mixin.py:104} INFO - [2024-08-22 15:52:49,912] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:49,921] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:52:49,948] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.045 seconds
+[2024-08-22 15:53:00,022] {scheduler_job.py:182} INFO - Started process (PID=1723) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:00,025] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:00,027] {logging_mixin.py:104} INFO - [2024-08-22 15:53:00,027] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:00,036] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:00,059] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.045 seconds
+[2024-08-22 15:53:11,080] {scheduler_job.py:182} INFO - Started process (PID=1808) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:11,082] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:11,084] {logging_mixin.py:104} INFO - [2024-08-22 15:53:11,083] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:11,091] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:11,113] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:53:22,014] {scheduler_job.py:182} INFO - Started process (PID=1893) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:22,016] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:22,018] {logging_mixin.py:104} INFO - [2024-08-22 15:53:22,018] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:22,026] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:22,048] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:53:32,942] {scheduler_job.py:182} INFO - Started process (PID=1978) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:32,944] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:32,946] {logging_mixin.py:104} INFO - [2024-08-22 15:53:32,946] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:32,955] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:32,976] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:53:44,195] {scheduler_job.py:182} INFO - Started process (PID=2063) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:44,223] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:44,229] {logging_mixin.py:104} INFO - [2024-08-22 15:53:44,228] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:44,249] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:44,288] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.110 seconds
+[2024-08-22 15:53:54,569] {scheduler_job.py:182} INFO - Started process (PID=2150) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:54,574] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:53:54,576] {logging_mixin.py:104} INFO - [2024-08-22 15:53:54,576] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:54,587] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:53:54,621] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.060 seconds
+[2024-08-22 15:54:05,084] {scheduler_job.py:182} INFO - Started process (PID=2265) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:05,086] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:54:05,088] {logging_mixin.py:104} INFO - [2024-08-22 15:54:05,087] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:05,097] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:05,138] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.060 seconds
+[2024-08-22 15:54:15,891] {scheduler_job.py:182} INFO - Started process (PID=2352) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:15,894] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:54:15,897] {logging_mixin.py:104} INFO - [2024-08-22 15:54:15,897] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:15,905] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:15,938] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.052 seconds
+[2024-08-22 15:54:40,610] {scheduler_job.py:182} INFO - Started process (PID=2470) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:40,612] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:54:40,614] {logging_mixin.py:104} INFO - [2024-08-22 15:54:40,614] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:40,622] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:40,642] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:54:51,414] {scheduler_job.py:182} INFO - Started process (PID=2555) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:51,417] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:54:51,418] {logging_mixin.py:104} INFO - [2024-08-22 15:54:51,418] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:51,427] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:54:51,452] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.043 seconds
+[2024-08-22 15:55:02,235] {scheduler_job.py:182} INFO - Started process (PID=2640) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:02,237] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:02,239] {logging_mixin.py:104} INFO - [2024-08-22 15:55:02,238] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:02,247] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:02,267] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:55:13,006] {scheduler_job.py:182} INFO - Started process (PID=2725) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:13,009] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:13,010] {logging_mixin.py:104} INFO - [2024-08-22 15:55:13,010] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:13,023] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:13,051] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.051 seconds
+[2024-08-22 15:55:24,071] {scheduler_job.py:182} INFO - Started process (PID=2810) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:24,074] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:24,075] {logging_mixin.py:104} INFO - [2024-08-22 15:55:24,075] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:24,084] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:24,105] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 15:55:35,094] {scheduler_job.py:182} INFO - Started process (PID=2895) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:35,096] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:35,097] {logging_mixin.py:104} INFO - [2024-08-22 15:55:35,097] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:35,105] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:35,129] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:55:46,220] {scheduler_job.py:182} INFO - Started process (PID=2980) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:46,222] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:46,224] {logging_mixin.py:104} INFO - [2024-08-22 15:55:46,224] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:46,234] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:46,255] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 15:55:56,833] {scheduler_job.py:182} INFO - Started process (PID=3029) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:56,836] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:55:56,837] {logging_mixin.py:104} INFO - [2024-08-22 15:55:56,837] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:56,846] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:55:56,868] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 15:56:07,707] {scheduler_job.py:182} INFO - Started process (PID=3114) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:07,709] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:56:07,711] {logging_mixin.py:104} INFO - [2024-08-22 15:56:07,711] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:07,720] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:07,743] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 15:56:18,575] {scheduler_job.py:182} INFO - Started process (PID=3199) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:18,577] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:56:18,578] {logging_mixin.py:104} INFO - [2024-08-22 15:56:18,578] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:18,588] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:18,611] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 15:56:29,497] {scheduler_job.py:182} INFO - Started process (PID=3284) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:29,500] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:56:29,502] {logging_mixin.py:104} INFO - [2024-08-22 15:56:29,502] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:29,511] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:29,532] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 15:56:40,444] {scheduler_job.py:182} INFO - Started process (PID=3369) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:40,448] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:56:40,449] {logging_mixin.py:104} INFO - [2024-08-22 15:56:40,449] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:40,458] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:40,484] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 15:56:51,464] {scheduler_job.py:182} INFO - Started process (PID=3454) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:51,467] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:56:51,469] {logging_mixin.py:104} INFO - [2024-08-22 15:56:51,469] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:51,478] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:56:51,509] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.050 seconds
+[2024-08-22 15:57:01,597] {scheduler_job.py:182} INFO - Started process (PID=3537) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:01,600] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:01,602] {logging_mixin.py:104} INFO - [2024-08-22 15:57:01,601] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:01,609] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:01,629] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.036 seconds
+[2024-08-22 15:57:12,504] {scheduler_job.py:182} INFO - Started process (PID=3622) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:12,507] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:12,508] {logging_mixin.py:104} INFO - [2024-08-22 15:57:12,508] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:12,516] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:12,538] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 15:57:23,265] {scheduler_job.py:182} INFO - Started process (PID=3707) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:23,287] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:23,288] {logging_mixin.py:104} INFO - [2024-08-22 15:57:23,288] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:23,298] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:23,320] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.061 seconds
+[2024-08-22 15:57:34,096] {scheduler_job.py:182} INFO - Started process (PID=3792) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:34,099] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:34,101] {logging_mixin.py:104} INFO - [2024-08-22 15:57:34,101] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:34,110] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:34,135] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.044 seconds
+[2024-08-22 15:57:44,540] {scheduler_job.py:182} INFO - Started process (PID=3877) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:44,543] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:44,545] {logging_mixin.py:104} INFO - [2024-08-22 15:57:44,545] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:44,555] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:44,582] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.049 seconds
+[2024-08-22 15:57:54,620] {scheduler_job.py:182} INFO - Started process (PID=3962) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:54,623] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:57:54,626] {logging_mixin.py:104} INFO - [2024-08-22 15:57:54,625] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:54,634] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:57:54,656] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.043 seconds
+[2024-08-22 15:58:06,041] {scheduler_job.py:182} INFO - Started process (PID=4045) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:06,044] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:06,047] {logging_mixin.py:104} INFO - [2024-08-22 15:58:06,047] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:06,062] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:06,091] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.056 seconds
+[2024-08-22 15:58:16,878] {scheduler_job.py:182} INFO - Started process (PID=4130) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:16,880] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:16,881] {logging_mixin.py:104} INFO - [2024-08-22 15:58:16,881] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:16,889] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:16,910] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 15:58:27,856] {scheduler_job.py:182} INFO - Started process (PID=4216) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:27,859] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:27,862] {logging_mixin.py:104} INFO - [2024-08-22 15:58:27,861] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:27,872] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:27,895] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.044 seconds
+[2024-08-22 15:58:38,907] {scheduler_job.py:182} INFO - Started process (PID=4300) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:38,909] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:38,912] {logging_mixin.py:104} INFO - [2024-08-22 15:58:38,911] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:38,920] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:38,947] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.049 seconds
+[2024-08-22 15:58:49,030] {scheduler_job.py:182} INFO - Started process (PID=4384) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:49,032] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:49,034] {logging_mixin.py:104} INFO - [2024-08-22 15:58:49,034] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:49,047] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:49,082] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.058 seconds
+[2024-08-22 15:58:59,535] {scheduler_job.py:182} INFO - Started process (PID=4470) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:59,538] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:58:59,540] {logging_mixin.py:104} INFO - [2024-08-22 15:58:59,539] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:59,549] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:58:59,575] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.047 seconds
+[2024-08-22 15:59:09,921] {scheduler_job.py:182} INFO - Started process (PID=4555) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:09,923] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:59:09,925] {logging_mixin.py:104} INFO - [2024-08-22 15:59:09,925] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:09,935] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:09,970] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.054 seconds
+[2024-08-22 15:59:42,895] {scheduler_job.py:182} INFO - Started process (PID=4639) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:42,898] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:59:42,900] {logging_mixin.py:104} INFO - [2024-08-22 15:59:42,900] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:42,915] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:42,954] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.068 seconds
+[2024-08-22 15:59:53,511] {scheduler_job.py:182} INFO - Started process (PID=4735) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:53,513] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 15:59:53,515] {logging_mixin.py:104} INFO - [2024-08-22 15:59:53,515] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:53,525] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 15:59:53,583] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.078 seconds
+[2024-08-22 16:00:03,676] {scheduler_job.py:182} INFO - Started process (PID=4825) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:03,679] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:00:03,681] {logging_mixin.py:104} INFO - [2024-08-22 16:00:03,680] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:03,688] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:03,713] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 16:00:14,265] {scheduler_job.py:182} INFO - Started process (PID=4920) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:14,268] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:00:14,270] {logging_mixin.py:104} INFO - [2024-08-22 16:00:14,269] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:14,281] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:14,305] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.044 seconds
+[2024-08-22 16:00:24,475] {scheduler_job.py:182} INFO - Started process (PID=5010) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:24,479] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:00:24,481] {logging_mixin.py:104} INFO - [2024-08-22 16:00:24,480] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:24,500] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:24,525] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.057 seconds
+[2024-08-22 16:00:34,751] {scheduler_job.py:182} INFO - Started process (PID=5100) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:34,754] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:00:34,756] {logging_mixin.py:104} INFO - [2024-08-22 16:00:34,755] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:34,764] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:00:34,788] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 16:02:28,898] {scheduler_job.py:182} INFO - Started process (PID=235) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:28,900] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:02:28,902] {logging_mixin.py:104} INFO - [2024-08-22 16:02:28,902] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:28,910] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:28,942] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.051 seconds
+[2024-08-22 16:02:39,822] {scheduler_job.py:182} INFO - Started process (PID=314) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:39,826] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:02:39,828] {logging_mixin.py:104} INFO - [2024-08-22 16:02:39,827] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:39,837] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:39,877] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.069 seconds
+[2024-08-22 16:02:50,049] {scheduler_job.py:182} INFO - Started process (PID=400) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:50,061] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:02:50,076] {logging_mixin.py:104} INFO - [2024-08-22 16:02:50,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:50,093] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:02:50,176] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.148 seconds
+[2024-08-22 16:03:00,274] {scheduler_job.py:182} INFO - Started process (PID=480) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:00,276] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:00,278] {logging_mixin.py:104} INFO - [2024-08-22 16:03:00,278] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:00,287] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:00,308] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 16:03:10,352] {scheduler_job.py:182} INFO - Started process (PID=569) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:10,354] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:10,356] {logging_mixin.py:104} INFO - [2024-08-22 16:03:10,355] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:10,363] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:10,385] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.039 seconds
+[2024-08-22 16:03:20,437] {scheduler_job.py:182} INFO - Started process (PID=650) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:20,439] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:20,441] {logging_mixin.py:104} INFO - [2024-08-22 16:03:20,441] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:20,449] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:20,471] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.040 seconds
+[2024-08-22 16:03:30,607] {scheduler_job.py:182} INFO - Started process (PID=740) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:30,610] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:30,611] {logging_mixin.py:104} INFO - [2024-08-22 16:03:30,611] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:30,621] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:30,648] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.046 seconds
+[2024-08-22 16:03:41,124] {scheduler_job.py:182} INFO - Started process (PID=835) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:41,126] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:41,127] {logging_mixin.py:104} INFO - [2024-08-22 16:03:41,127] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:41,136] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:41,158] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.038 seconds
+[2024-08-22 16:03:51,193] {scheduler_job.py:182} INFO - Started process (PID=912) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:51,196] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:03:51,198] {logging_mixin.py:104} INFO - [2024-08-22 16:03:51,198] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:51,207] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:03:51,230] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 16:04:01,348] {scheduler_job.py:182} INFO - Started process (PID=1002) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:01,350] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:01,351] {logging_mixin.py:104} INFO - [2024-08-22 16:04:01,351] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:01,360] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:01,384] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.041 seconds
+[2024-08-22 16:04:11,996] {scheduler_job.py:182} INFO - Started process (PID=1085) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:11,998] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:12,000] {logging_mixin.py:104} INFO - [2024-08-22 16:04:11,999] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:12,008] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:12,029] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.037 seconds
+[2024-08-22 16:04:22,117] {scheduler_job.py:182} INFO - Started process (PID=1169) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:22,121] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:22,123] {logging_mixin.py:104} INFO - [2024-08-22 16:04:22,122] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:22,132] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:22,154] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.042 seconds
+[2024-08-22 16:04:32,278] {scheduler_job.py:182} INFO - Started process (PID=1257) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:32,282] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:32,284] {logging_mixin.py:104} INFO - [2024-08-22 16:04:32,283] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:32,294] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:32,319] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.045 seconds
+[2024-08-22 16:04:43,311] {scheduler_job.py:182} INFO - Started process (PID=1355) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:43,315] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:43,317] {logging_mixin.py:104} INFO - [2024-08-22 16:04:43,316] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:43,332] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:43,394] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.090 seconds
+[2024-08-22 16:04:54,308] {scheduler_job.py:182} INFO - Started process (PID=1445) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:54,312] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:04:54,313] {logging_mixin.py:104} INFO - [2024-08-22 16:04:54,313] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:54,323] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:04:54,359] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.057 seconds
+[2024-08-22 16:05:04,435] {scheduler_job.py:182} INFO - Started process (PID=1527) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:04,437] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:05:04,439] {logging_mixin.py:104} INFO - [2024-08-22 16:05:04,438] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:04,450] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:04,481] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.052 seconds
+[2024-08-22 16:05:14,594] {scheduler_job.py:182} INFO - Started process (PID=1617) to work on /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:14,597] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/dag_with_postgres_operator.py for tasks to queue
+[2024-08-22 16:05:14,599] {logging_mixin.py:104} INFO - [2024-08-22 16:05:14,599] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:14,611] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_with_postgres_operator.py
+[2024-08-22 16:05:14,646] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/dag_with_postgres_operator.py took 0.060 seconds

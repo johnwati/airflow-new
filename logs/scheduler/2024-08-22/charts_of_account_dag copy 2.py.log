@@ -1,0 +1,139 @@
+[2024-08-22 15:45:04,751] {scheduler_job.py:182} INFO - Started process (PID=3655) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:04,753] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:04,756] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,755] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:04,784] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:04,812] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,811] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:04,852] {logging_mixin.py:104} INFO - [2024-08-22 15:45:04,852] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:04,868] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.122 seconds
+[2024-08-22 15:45:15,483] {scheduler_job.py:182} INFO - Started process (PID=3760) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:15,487] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:15,489] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,489] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:15,525] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:15,569] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,568] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:15,644] {logging_mixin.py:104} INFO - [2024-08-22 15:45:15,644] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:15,670] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.202 seconds
+[2024-08-22 15:45:25,754] {scheduler_job.py:182} INFO - Started process (PID=3850) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:25,757] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:25,759] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,758] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:25,784] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:25,810] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,810] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:25,851] {logging_mixin.py:104} INFO - [2024-08-22 15:45:25,851] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:25,898] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.148 seconds
+[2024-08-22 15:45:36,015] {scheduler_job.py:182} INFO - Started process (PID=3935) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:36,017] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:36,019] {logging_mixin.py:104} INFO - [2024-08-22 15:45:36,018] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:36,039] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:36,064] {logging_mixin.py:104} INFO - [2024-08-22 15:45:36,063] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:36,104] {logging_mixin.py:104} INFO - [2024-08-22 15:45:36,104] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:36,119] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.110 seconds
+[2024-08-22 15:45:46,274] {scheduler_job.py:182} INFO - Started process (PID=4025) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:46,276] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:46,279] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,278] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:46,304] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:46,333] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,332] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:46,402] {logging_mixin.py:104} INFO - [2024-08-22 15:45:46,401] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:46,417] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.153 seconds
+[2024-08-22 15:45:57,180] {scheduler_job.py:182} INFO - Started process (PID=4110) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:57,195] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:45:57,201] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,200] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:57,243] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:45:57,287] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,287] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:45:57,321] {logging_mixin.py:104} INFO - [2024-08-22 15:45:57,320] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:44:00+00:00
+[2024-08-22 15:45:57,333] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.161 seconds
+[2024-08-22 15:46:07,968] {scheduler_job.py:182} INFO - Started process (PID=4202) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:07,970] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:46:07,971] {logging_mixin.py:104} INFO - [2024-08-22 15:46:07,971] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:07,991] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:08,014] {logging_mixin.py:104} INFO - [2024-08-22 15:46:08,013] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:08,062] {logging_mixin.py:104} INFO - [2024-08-22 15:46:08,061] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:08,073] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.110 seconds
+[2024-08-22 15:46:18,710] {scheduler_job.py:182} INFO - Started process (PID=4292) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:18,713] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:46:18,715] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,714] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:18,735] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:18,758] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,758] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:18,794] {logging_mixin.py:104} INFO - [2024-08-22 15:46:18,794] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:18,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.106 seconds
+[2024-08-22 15:46:29,536] {scheduler_job.py:182} INFO - Started process (PID=4382) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:29,539] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:46:29,541] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,541] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:29,566] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:29,589] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,589] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:29,622] {logging_mixin.py:104} INFO - [2024-08-22 15:46:29,622] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:29,633] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.102 seconds
+[2024-08-22 15:46:40,439] {scheduler_job.py:182} INFO - Started process (PID=4472) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:40,443] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:46:40,445] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,444] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:40,474] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:40,511] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,511] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:40,572] {logging_mixin.py:104} INFO - [2024-08-22 15:46:40,571] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:40,593] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.163 seconds
+[2024-08-22 15:46:50,657] {scheduler_job.py:182} INFO - Started process (PID=4564) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:50,661] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:46:50,663] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,662] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:50,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:46:50,709] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,709] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:46:50,755] {logging_mixin.py:104} INFO - [2024-08-22 15:46:50,755] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:46:50,772] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.121 seconds
+[2024-08-22 15:47:01,651] {scheduler_job.py:182} INFO - Started process (PID=4652) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:01,656] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:01,657] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,657] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:01,684] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:01,712] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,711] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:01,761] {logging_mixin.py:104} INFO - [2024-08-22 15:47:01,761] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:01,778] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.135 seconds
+[2024-08-22 15:47:12,540] {scheduler_job.py:182} INFO - Started process (PID=4742) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:12,543] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:12,546] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,546] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:12,574] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:12,600] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,600] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:12,641] {logging_mixin.py:104} INFO - [2024-08-22 15:47:12,641] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:12,656] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.123 seconds
+[2024-08-22 15:47:23,718] {scheduler_job.py:182} INFO - Started process (PID=4832) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:23,721] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:23,724] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,723] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:23,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:23,796] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,796] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:23,861] {logging_mixin.py:104} INFO - [2024-08-22 15:47:23,860] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:23,878] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.168 seconds
+[2024-08-22 15:47:34,232] {scheduler_job.py:182} INFO - Started process (PID=4932) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:34,236] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:34,239] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,238] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:34,270] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:34,298] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,298] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:34,341] {logging_mixin.py:104} INFO - [2024-08-22 15:47:34,341] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:34,354] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.131 seconds
+[2024-08-22 15:47:45,079] {scheduler_job.py:182} INFO - Started process (PID=5012) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:45,082] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:45,084] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,084] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:45,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:45,130] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,130] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:45,164] {logging_mixin.py:104} INFO - [2024-08-22 15:47:45,163] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:45,177] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.103 seconds
+[2024-08-22 15:47:56,033] {scheduler_job.py:182} INFO - Started process (PID=5102) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:56,036] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:47:56,038] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,038] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:56,060] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['charts_of_account_DAG_2min']) retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:47:56,085] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,085] {dag.py:1818} INFO - Sync 1 DAGs
+[2024-08-22 15:47:56,120] {logging_mixin.py:104} INFO - [2024-08-22 15:47:56,120] {dag.py:2273} INFO - Setting next_dagrun for charts_of_account_DAG_2min to 2024-08-22T15:46:00+00:00
+[2024-08-22 15:47:56,131] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.104 seconds
+[2024-08-22 15:48:06,887] {scheduler_job.py:182} INFO - Started process (PID=5194) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:06,891] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:48:06,894] {logging_mixin.py:104} INFO - [2024-08-22 15:48:06,894] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:06,897] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:06,899] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.022 seconds
+[2024-08-22 15:48:17,834] {scheduler_job.py:182} INFO - Started process (PID=5284) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:17,836] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:48:17,838] {logging_mixin.py:104} INFO - [2024-08-22 15:48:17,837] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:17,839] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:17,840] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.012 seconds
+[2024-08-22 15:48:28,689] {scheduler_job.py:182} INFO - Started process (PID=5374) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:28,692] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:48:28,694] {logging_mixin.py:104} INFO - [2024-08-22 15:48:28,694] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:28,696] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:28,697] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.014 seconds
+[2024-08-22 15:48:39,715] {scheduler_job.py:182} INFO - Started process (PID=5464) to work on /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:39,718] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/charts_of_account_dag copy 2.py for tasks to queue
+[2024-08-22 15:48:39,720] {logging_mixin.py:104} INFO - [2024-08-22 15:48:39,720] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:39,722] {scheduler_job.py:641} WARNING - No viable dags retrieved from /opt/airflow/dags/charts_of_account_dag copy 2.py
+[2024-08-22 15:48:39,723] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/charts_of_account_dag copy 2.py took 0.014 seconds

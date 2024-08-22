@@ -1,0 +1,22 @@
+[2024-06-24 14:20:02,766] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.greet 2022-07-14T00:00:00+00:00 [queued]>
+[2024-06-24 14:20:02,856] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.greet 2022-07-14T00:00:00+00:00 [queued]>
+[2024-06-24 14:20:02,882] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:20:02,904] {taskinstance.py:1043} INFO - Starting attempt 1 of 6
+[2024-06-24 14:20:02,906] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 14:20:02,975] {taskinstance.py:1063} INFO - Executing <Task(_PythonDecoratedOperator): greet> on 2022-07-14T00:00:00+00:00
+[2024-06-24 14:20:03,005] {standard_task_runner.py:52} INFO - Started process 3251 to run task
+[2024-06-24 14:20:03,039] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_taskflow_api_v02', 'greet', '2022-07-14T00:00:00+00:00', '--job-id', '3660', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_taskflow_api.py', '--cfg-path', '/tmp/tmph1x0neys', '--error-file', '/tmp/tmpne0eyu33']
+[2024-06-24 14:20:03,054] {standard_task_runner.py:77} INFO - Job 3660: Subtask greet
+[2024-06-24 14:20:03,192] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_taskflow_api_v02.greet 2022-07-14T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 14:20:03,524] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=dag_with_taskflow_api_v02
+AIRFLOW_CTX_TASK_ID=greet
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-14T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-14T00:00:00+00:00
+[2024-06-24 14:20:03,540] {logging_mixin.py:104} INFO - Hello World! My name is Jerry Fridman and I am 19 years old!
+[2024-06-24 14:20:03,580] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_taskflow_api_v02, task_id=greet, execution_date=20220714T000000, start_date=20240624T142002, end_date=20240624T142003
+[2024-06-24 14:20:03,725] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 14:20:03,753] {local_task_job.py:146} INFO - Task exited with return code 0

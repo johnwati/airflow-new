@@ -1,0 +1,23 @@
+[2024-08-15 15:06:00,726] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: charts_of_account_DAG_2min.call_api 2024-08-15T15:04:00+00:00 [queued]>
+[2024-08-15 15:06:00,764] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: charts_of_account_DAG_2min.call_api 2024-08-15T15:04:00+00:00 [queued]>
+[2024-08-15 15:06:00,765] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-15 15:06:00,766] {taskinstance.py:1043} INFO - Starting attempt 1 of 2
+[2024-08-15 15:06:00,767] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-08-15 15:06:00,792] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): call_api> on 2024-08-15T15:04:00+00:00
+[2024-08-15 15:06:00,802] {standard_task_runner.py:52} INFO - Started process 47246 to run task
+[2024-08-15 15:06:00,814] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'charts_of_account_DAG_2min', 'call_api', '2024-08-15T15:04:00+00:00', '--job-id', '12994', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/charts_of_account_dag.py', '--cfg-path', '/tmp/tmpzt6sudsl', '--error-file', '/tmp/tmp0je_h7wa']
+[2024-08-15 15:06:00,825] {standard_task_runner.py:77} INFO - Job 12994: Subtask call_api
+[2024-08-15 15:06:01,017] {logging_mixin.py:104} INFO - Running <TaskInstance: charts_of_account_DAG_2min.call_api 2024-08-15T15:04:00+00:00 [running]> on host 799b1e36e3f1
+[2024-08-15 15:06:01,112] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=charts_of_account_DAG_2min
+AIRFLOW_CTX_TASK_ID=call_api
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-15T15:04:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-15T15:04:00+00:00
+[2024-08-15 15:06:01,604] {logging_mixin.py:104} INFO - API call successful!
+[2024-08-15 15:06:01,606] {python.py:118} INFO - Done. Returned value was: None
+[2024-08-15 15:06:01,626] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=charts_of_account_DAG_2min, task_id=call_api, execution_date=20240815T150400, start_date=20240815T150600, end_date=20240815T150601
+[2024-08-15 15:06:01,676] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-15 15:06:01,693] {local_task_job.py:146} INFO - Task exited with return code 0

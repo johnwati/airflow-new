@@ -1,0 +1,24 @@
+[2024-06-24 12:53:17,694] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_dependencies_v03.get_matplotlib 2021-11-01T00:00:00+00:00 [queued]>
+[2024-06-24 12:53:17,778] {taskinstance.py:851} INFO - Dependencies all met for <TaskInstance: dag_with_python_dependencies_v03.get_matplotlib 2021-11-01T00:00:00+00:00 [queued]>
+[2024-06-24 12:53:17,783] {taskinstance.py:1042} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:53:17,785] {taskinstance.py:1043} INFO - Starting attempt 1 of 1
+[2024-06-24 12:53:17,792] {taskinstance.py:1044} INFO - 
+--------------------------------------------------------------------------------
+[2024-06-24 12:53:17,907] {taskinstance.py:1063} INFO - Executing <Task(PythonOperator): get_matplotlib> on 2021-11-01T00:00:00+00:00
+[2024-06-24 12:53:17,960] {standard_task_runner.py:52} INFO - Started process 28436 to run task
+[2024-06-24 12:53:17,977] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_python_dependencies_v03', 'get_matplotlib', '2021-11-01T00:00:00+00:00', '--job-id', '738', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_python_dependencies.py', '--cfg-path', '/tmp/tmp_jukdmw0', '--error-file', '/tmp/tmppix174s9']
+[2024-06-24 12:53:17,998] {standard_task_runner.py:77} INFO - Job 738: Subtask get_matplotlib
+[2024-06-24 12:53:18,417] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_with_python_dependencies_v03.get_matplotlib 2021-11-01T00:00:00+00:00 [running]> on host 799b1e36e3f1
+[2024-06-24 12:53:18,875] {taskinstance.py:1257} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=coder2j
+AIRFLOW_CTX_DAG_ID=dag_with_python_dependencies_v03
+AIRFLOW_CTX_TASK_ID=get_matplotlib
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-01T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-01T00:00:00+00:00
+[2024-06-24 12:53:19,409] {__init__.py:482} WARNING - Matplotlib created a temporary config/cache directory at /tmp/matplotlib-h6ndup2h because the default path (/home/airflow/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[2024-06-24 12:53:19,476] {logging_mixin.py:104} INFO - matplotlib with version: 3.3.3
+[2024-06-24 12:53:19,477] {python.py:118} INFO - Done. Returned value was: None
+[2024-06-24 12:53:19,542] {taskinstance.py:1166} INFO - Marking task as SUCCESS. dag_id=dag_with_python_dependencies_v03, task_id=get_matplotlib, execution_date=20211101T000000, start_date=20240624T125317, end_date=20240624T125319
+[2024-06-24 12:53:21,193] {taskinstance.py:1220} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-24 12:53:21,292] {local_task_job.py:146} INFO - Task exited with return code 0
