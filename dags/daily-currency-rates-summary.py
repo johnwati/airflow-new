@@ -28,7 +28,7 @@ with DAG(
     'daily-currency-rates-summary',
     default_args=default_args,
     description='A DAG to call an API every 2 minutes',
-    schedule_interval='*/20 * * * *',
+    schedule_interval='0 8,14,20 * * *',
     catchup=False,
 ) as dag:
 

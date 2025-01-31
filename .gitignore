@@ -1,0 +1,7 @@
+# Ignore log files
+*.log
+logs/
+log/
+*.out
+*.err
+dags/__pycache__/
