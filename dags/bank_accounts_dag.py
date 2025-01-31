@@ -13,10 +13,11 @@ default_args = {
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }
+# curl http://10.70.1.13:8290/HelloWorld
 
 # Define the API call function
 def call_api():
-    url = "https://apim-prod.dbg.com.gh:8243/dbg-erp-cbs-bank-account/1.0.0/api/v1/bankAccounts"  # Replace with your API URL
+    url = "http://10.70.1.13:8290/api/v1/createBankAccount"  # Replace with your API URL
     response = requests.get(url)
     if response.status_code == 200:
         print("API call successful!")

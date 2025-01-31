@@ -16,7 +16,7 @@ default_args = {
 
 # Define the API call function
 def call_api():
-    url = "https://apim-prod.dbg.com.gh:8243/dbg-erp-cbs-currenciesv1/1.0.0/api/v1/currencies"  # Replace with your API URL
+    url = "http://10.70.1.13:8290/api/v1/currencies"  # Replace with your API URL
     response = requests.get(url)
     if response.status_code == 200:
         print("API call successful!")

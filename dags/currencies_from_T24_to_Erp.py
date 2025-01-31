@@ -16,7 +16,7 @@ default_args = {
 
 # Define the API call function
 def call_api():
-    url = "http://10.70.1.13:8290/api/v1/chartOfAccounts"  # Replace with your API URL
+    url = "http://10.70.1.13:9090/api/v1/currencies-from-T24-to-Erp"  # Replace with your API URL
     response = requests.get(url)
     if response.status_code == 200:
         print("API call successful!")
@@ -25,10 +25,10 @@ def call_api():
 
 # Define the DAG
 with DAG(
-    'CHARTS_OF_ACCOUNTS_T24_TO_ERP',
+    'currencies-from-T24-to-Erp',
     default_args=default_args,
     description='A DAG to call an API every 2 minutes',
-    schedule_interval='*/10 * * * *',
+    schedule_interval='*/20 * * * *',
     catchup=False,
 ) as dag:
 

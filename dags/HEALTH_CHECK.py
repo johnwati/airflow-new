@@ -28,7 +28,7 @@ with DAG(
     'HEALTH_CHECK',
     default_args=default_args,
     description='A DAG to call an API every 2 minutes',
-    schedule_interval='*/2 * * * *',
+    schedule_interval='*/20 * * * *',
     catchup=False,
 ) as dag:
 
